@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16.03"
+   width="16.054"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="view-fullscreen-symbolic.svg">
+  <defs
+     id="defs3108" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="696"
+     id="namedview3106"
+     showgrid="false"
+     inkscape:zoom="14.722395"
+     inkscape:cx="8.6533836"
+     inkscape:cy="1.7365698"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     style="fill:#bebebe;fill-opacity:1;stroke:none"
+     d="m 2.6695181,14.846494 2.5466776,-2.546678 c 0.7809697,0.819737 1.5313449,1.640234 2.2591495,2.382376 l 0,-6.3666936 -6.0380905,0 c 0.6173982,0.648984 1.3631358,1.405603 2.0537723,2.1359226 l -2.58775307,2.628828 1.76624417,1.766245 z"
+     id="path4149"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4153"
+     d="m 13.384483,1.1835064 -2.546678,2.546678 C 10.056836,2.9104474 9.3064598,2.0899504 8.5786558,1.3478084 l 0,6.3666939 6.0380902,0 C 13.999348,7.0655183 13.253611,6.3088993 12.562974,5.5785794 l 2.587753,-2.628829 -1.766244,-1.766244 z"
+     style="fill:#bebebe;fill-opacity:1;stroke:none" />
+</svg>
