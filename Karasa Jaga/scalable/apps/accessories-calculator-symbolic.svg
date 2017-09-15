@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="accessories-calculator-symbolic.svg">
+  <defs
+     id="defs12880" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="696"
+     id="namedview12878"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="2.3065497"
+     inkscape:cy="2.8645755"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="layer11"
+     transform="matrix(0.77807242,0,0,1,-46.866166,-380.9975)">
+    <g
+       id="g11525"
+       transform="translate(14,-17)">
+      <path
+         id="rect5122-3-5"
+         style="fill:#bebebe"
+         d="m 50.031,398 c -0.54216,0 -1,0.32904 -1,0.9375 v 14.125 c 0,0.58636 0.37667,0.9375 1,0.9375 H 63.062 C 63.583,414 64,413.65 64,413.06 v -14.125 c 0,-0.54 -0.395,-0.94 -0.938,-0.94 H 50.031 z M 51,400.03 h 11.031 v 2.9688 H 51 v -2.97 z m 0.188,3.97 h 1.625 c 0.11,0 0.187,0.08 0.187,0.19 v 1.625 c 0,0.1 -0.077,0.18 -0.188,0.18 h -1.625 c -0.11,0 -0.187,-0.08 -0.187,-0.19 v -1.625 c 0,-0.1 0.077,-0.18 0.188,-0.18 z m 3,0 h 1.625 c 0.11,0 0.187,0.08 0.187,0.19 v 1.625 c 0,0.1 -0.077,0.18 -0.188,0.18 h -1.625 c -0.11,0 -0.187,-0.08 -0.187,-0.19 v -1.625 c 0,-0.1 0.077,-0.18 0.188,-0.18 z m 3,0 h 1.625 c 0.11,0 0.187,0.08 0.187,0.19 v 1.625 c 0,0.1 -0.077,0.18 -0.188,0.18 h -1.625 c -0.11,0 -0.187,-0.08 -0.187,-0.19 v -1.625 c 0,-0.1 0.077,-0.18 0.188,-0.18 z m 3,0 h 1.625 c 0.11,0 0.187,0.08 0.187,0.19 v 1.625 c 0,0.1 -0.077,0.18 -0.188,0.18 h -1.625 c -0.11,0 -0.187,-0.08 -0.187,-0.19 v -1.625 c 0,-0.1 0.077,-0.18 0.188,-0.18 z m -9,3 h 1.625 c 0.11,0 0.187,0.08 0.187,0.19 v 1.625 c 0,0.1 -0.077,0.18 -0.188,0.18 h -1.625 c -0.11,0 -0.187,-0.08 -0.187,-0.19 v -1.625 c 0,-0.1 0.077,-0.18 0.188,-0.18 z m 3,0 h 1.625 c 0.11,0 0.187,0.08 0.187,0.19 v 1.625 c 0,0.1 -0.077,0.18 -0.188,0.18 h -1.625 c -0.11,0 -0.187,-0.08 -0.187,-0.19 v -1.625 c 0,-0.1 0.077,-0.18 0.188,-0.18 z m 3,0 h 1.625 c 0.11,0 0.187,0.08 0.187,0.19 v 1.625 c 0,0.1 -0.077,0.18 -0.188,0.18 h -1.625 c -0.11,0 -0.187,-0.08 -0.187,-0.19 v -1.625 c 0,-0.1 0.077,-0.18 0.188,-0.18 z m 3,0 h 1.625 c 0.11,0 0.187,0.08 0.187,0.19 v 1.625 c 0,0.1 -0.077,0.18 -0.188,0.18 h -1.625 c -0.11,0 -0.187,-0.08 -0.187,-0.19 v -1.625 c 0,-0.1 0.077,-0.18 0.188,-0.18 z m -9,3 h 1.625 c 0.11,0 0.187,0.08 0.187,0.19 v 1.625 c 0,0.1 -0.077,0.18 -0.188,0.18 h -1.625 c -0.11,0 -0.187,-0.08 -0.187,-0.19 v -1.625 c 0,-0.1 0.077,-0.18 0.188,-0.18 z m 3,0 h 1.625 c 0.11,0 0.187,0.08 0.187,0.19 v 1.625 c 0,0.1 -0.077,0.18 -0.188,0.18 h -1.625 c -0.11,0 -0.187,-0.08 -0.187,-0.19 v -1.625 c 0,-0.1 0.077,-0.18 0.188,-0.18 z m 3,0 h 1.625 c 0.11,0 0.187,0.08 0.187,0.19 v 1.625 c 0,0.1 -0.077,0.18 -0.188,0.18 h -1.625 c -0.11,0 -0.187,-0.08 -0.187,-0.19 v -1.625 c 0,-0.1 0.077,-0.18 0.188,-0.18 z m 3,0 h 1.625 c 0.11,0 0.187,0.08 0.187,0.19 v 1.625 c 0,0.1 -0.077,0.18 -0.188,0.18 h -1.625 c -0.11,0 -0.187,-0.08 -0.187,-0.19 v -1.625 c 0,-0.1 0.077,-0.18 0.188,-0.18 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
