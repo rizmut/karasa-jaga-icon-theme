@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="preferences-system-symbolic.svg">
+  <defs
+     id="defs4832" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     id="namedview4830"
+     showgrid="false"
+     inkscape:zoom="16"
+     inkscape:cx="19.447797"
+     inkscape:cy="9.4338793"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     style="text-indent:0;text-transform:none;block-progression:tb;color:#000000;fill:#bebebe"
+     d="m 12.5625,0.28125 c -1.9114,0 -2.9375,0.46889993 -2.9375,2.375 0,0.39829 -0.43694,1.86283 -0.3125,2.21875 -2.0603777,2.8435701 -5.4971563,4.9306346 -7.6875,6.9375 -0.016438,0.0152 -0.045979,0.01589 -0.0625,0.03125 -0.60289247,0.283291 -1.03125,0.914775 -1.03125,1.625 0,0.97962 0.8016298,1.75 1.78125,1.75 0.5585719,0 1.0498684,-0.252703 1.375,-0.65625 0.031252,-0.03879 0.065797,-0.08362 0.09375,-0.125 C 5.9811367,12.499197 7.803527,9.9258872 10,8.0625 l 1.4375,-1.09375 c 0.35692,0.1241 0.72567,0.21875 1.125,0.21875 1.9114,0 2.90625,-1.06265 2.90625,-2.96875 0,-0.39829 -0.09431,-0.80034 -0.21875,-1.15625 L 13.9375,4.46875 C 13.198787,4.527266 12.595987,4.3586973 12.21875,3.875 11.831402,3.4887 11.86265,2.48002 12.25,2.09375 l 2.0625,-1.125 c -0.35692,-0.12412 -1.35067,-0.6875 -1.75,-0.6875 z"
+     id="path3908"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sscccssscccsscccccs" />
+  <path
+     style="fill:#bebebe;fill-opacity:1;stroke:none"
+     d="m 11.4375,7.84375 0,0.8125 c -0.281999,0.040072 -0.529095,0.1392311 -0.78125,0.25 l -0.4375,-0.71875 -0.6874999,0.40625 0.4375,0.71875 c -0.195415,0.1554829 -0.37847,0.3336145 -0.53125,0.53125 l -0.75,-0.40625 -0.40625,0.6875 0.75,0.4375 c -0.099586,0.242039 -0.183353,0.481712 -0.21875,0.75 l -0.84375,0 0,0.78125 0.84375,0 c 0.035281,0.289681 0.109092,0.584488 0.21875,0.84375 l -0.71875,0.40625 0.40625,0.6875 0.71875,-0.4375 c 0.156643,0.204848 0.329134,0.402511 0.53125,0.5625 L 9.5625001,14.875 10.25,15.25 10.65625,14.5625 c 0.252155,0.110769 0.499251,0.178677 0.78125,0.21875 l 0,0.78125 0.8125,0 0,-0.78125 c 0.289681,-0.03528 0.584488,-0.07784 0.84375,-0.1875 l 0.375,0.65625 0.6875,-0.40625 L 13.75,14.1875 c 0.226104,-0.172213 0.422613,-0.366785 0.59375,-0.59375 L 15,13.96875 15.40625,13.28125 14.75,12.9375 c 0.0039,-0.0091 -0.0038,-0.0221 0,-0.03125 0.103471,-0.251371 0.153459,-0.532997 0.1875,-0.8125 l 0.78125,0 0,-0.78125 -0.78125,0 c -0.03983,-0.301912 -0.09835,-0.575805 -0.21875,-0.84375 l 0.65625,-0.375 -0.40625,-0.6875 -0.6875,0.40625 C 14.112945,9.6009699 13.936046,9.411173 13.71875,9.25 L 14.125,8.5625 13.40625,8.15625 13,8.84375 C 12.766542,8.753475 12.506868,8.6875347 12.25,8.65625 l 0,-0.8125 -0.8125,0 z m 0.40625,2.1875 c 0.915291,0 1.65625,0.772209 1.65625,1.6875 0,0.915291 -0.740959,1.65625 -1.65625,1.65625 -0.915291,0 -1.65625,-0.740959 -1.65625,-1.65625 0,-0.915291 0.740959,-1.6875 1.65625,-1.6875 z"
+     id="path6547"
+     inkscape:connector-curvature="0" />
+</svg>
