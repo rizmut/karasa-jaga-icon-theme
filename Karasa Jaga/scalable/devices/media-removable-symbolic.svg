@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="media-removable-symbolic.svg">
+  <defs
+     id="defs9">
+    <linearGradient
+       id="linearGradient4466">
+      <stop
+         style="stop-color:#bebebe;stop-opacity:1;"
+         offset="0"
+         id="stop4468" />
+      <stop
+         id="stop4474"
+         offset="0.50676125"
+         style="stop-color:#bebebe;stop-opacity:0.34684685" />
+      <stop
+         style="stop-color:#bebebe;stop-opacity:0"
+         offset="1"
+         id="stop4470" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="-3.3469306"
+     inkscape:cy="12.835511"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g5689"
+     transform="translate(-0.0078125,-0.51172)">
+    <path
+       d="M 11.078125,5.1082314 11.0625,13.789429 C 11.05873,15.884023 9.696625,16.039065 8,16.039065 c -1.696625,0 -3.0625,-0.155039 -3.0625,-2.249636 L 4.953125,5.1082314 z"
+       style="fill:#bebebe"
+       id="rect9463"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssscc" />
+    <path
+       id="rect9466"
+       d="m 5.6875,0.984375 0,3.0625 4.625,0 0,-3.0625 -4.625,0 z m 0.78125,0.34375 0.875,0 0,2.28125 -0.875,0 0,-1.09375 0,-0.78125 0,-0.40625 z m 2.1875,0 0.875,0 0,0.40625 0,0.78125 0,1.09375 -0.875,0 0,-2.28125 z"
+       style="fill:#bebebe"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
