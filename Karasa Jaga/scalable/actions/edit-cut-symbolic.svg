@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="bookmark-new-symbolic.svg">
+  <defs
+     id="defs10">
+    <linearGradient
+       id="linearGradient4565">
+      <stop
+         style="stop-color:#161616;stop-opacity:1;"
+         offset="0"
+         id="stop4567" />
+      <stop
+         style="stop-color:#3a3a3a;stop-opacity:1;"
+         offset="1"
+         id="stop4569" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3569">
+      <stop
+         style="stop-color:#161616;stop-opacity:1;"
+         offset="0"
+         id="stop3571" />
+      <stop
+         style="stop-color:#3a3a3a;stop-opacity:1;"
+         offset="1"
+         id="stop3573" />
+    </linearGradient>
+    <linearGradient
+       y2="-40.636906"
+       x2="54.675591"
+       y1="40.918156"
+       x1="136.23065"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4548"
+       xlink:href="#linearGradient3569"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="696"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-4.4067797"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     d="m 4.9999997,0.49999985 0,0.25 0,2.75000005 0,0.25 L 7.1875001,8.1250002 6.0000001,10.5 c -0.8357814,0.619916 -1.3031064,0.561884 -1.8437504,0.5 -0.153096,-0.04887 -0.298925,-0.07109 -0.46875,-0.0625 -0.01441,7.27e-4 -0.04801,0.03013 -0.0625,0.03125 -0.09237,-0.0021 -0.162153,0.01576 -0.25,0.03125 -0.65557,0.152049 -1.370011,0.645204 -1.84375,1.40625 C 0.79902373,13.58255 0.99999973,15.5 1.9999997,15.5 l 2,0 3.0000004,-4 0.375,-0.75 0.625,0 0.625,0 0.375,0.75 2.9999999,4 2,0 c 1,0 1.200977,-1.91745 0.46875,-3.09375 C 13.995012,11.645204 13.28057,11.152049 12.625,11 12.53715,10.98451 12.467367,10.96664 12.375,10.96875 12.36051,10.96765 12.32691,10.93823 12.3125,10.9375 12.142676,10.9289 11.996846,10.95113 11.84375,11 11.303106,11.06188 10.83578,11.119916 10,10.5 L 8.8125001,8.1250002 11,3.7499999 l 0,-0.25 0,-2.75000005 0,-0.25 L 8.0000001,6.4999998 4.9999997,0.49999985 z M 3.5624997,12.21875 c 0.136929,8.02e-4 0.256111,0.02685 0.375,0.09375 0.475558,0.267603 0.588057,1.001412 0.21875,1.625 -0.369306,0.623584 -1.055693,0.923854 -1.53125,0.65625 -0.475557,-0.267603 -0.588056,-1.001413 -0.21875,-1.625 0.27698,-0.46769 0.745464,-0.752408 1.15625,-0.75 z m 8.8750003,0 c 0.410785,-0.0024 0.87927,0.28231 1.15625,0.75 0.369306,0.623587 0.256807,1.357397 -0.21875,1.625 -0.475557,0.267604 -1.161944,-0.03267 -1.53125,-0.65625 -0.369306,-0.623588 -0.256807,-1.357397 0.21875,-1.625 0.118888,-0.0669 0.238072,-0.09295 0.375,-0.09375 z"
+     id="path3249" />
+</svg>

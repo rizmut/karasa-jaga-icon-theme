@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="16"
+   height="16"
+   id="svg12722">
+  <defs
+     id="defs12724">
+    <linearGradient
+       x1="15"
+       y1="2"
+       x2="15"
+       y2="21"
+       id="linearGradient3696"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop3700"
+         style="stop-color:#eeeeec;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3702"
+         style="stop-color:#babdb6;stop-opacity:1"
+         offset="0.79220003" />
+      <stop
+         id="stop3704"
+         style="stop-color:#a1a59b;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="22.146999"
+       y1="15.722"
+       x2="22.402"
+       y2="34.612"
+       id="linearGradient4117"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop4113"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4115"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5841">
+      <stop
+         id="stop5843"
+         style="stop-color:#37e700;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5849"
+         style="stop-color:#3dfe00;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop5845"
+         style="stop-color:#2aad00;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata12727">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <path
+       d="m 8,0.875 c -3.4883525,0 -6.3125,2.8241475 -6.3125,6.3125 0,3.488352 2.8241475,6.3125 6.3125,6.3125 0.6660129,0 1.3034737,-0.05891 1.90625,-0.25 l 3.375,2.125 -1.3125,-3.3125 C 13.379081,10.904108 14.3125,9.1550164 14.3125,7.1875 14.3125,3.6991475 11.488352,0.875 8,0.875 z m -2.28125,3 C 5.9483167,3.8563339 6.167209,3.9357525 6.3125,4.09375 L 7.90625,5.8125 9.625,4.21875 c 0.3159952,-0.2905819 0.848442,-0.2151934 1.21875,0.1875 0.370309,0.4026942 0.440995,0.9906681 0.125,1.28125 L 9.21875,7.25 10.8125,8.96875 C 11.103082,9.284745 10.996444,9.8796925 10.59375,10.25 10.191056,10.62031 9.665582,10.628495 9.375,10.3125 L 7.78125,8.59375 6.0625,10.1875 C 5.7465049,10.478082 5.1828086,10.371443 4.8125,9.96875 4.4421925,9.5660566 4.402755,9.009332 4.71875,8.71875 L 6.4375,7.15625 4.875,5.40625 C 4.584418,5.090255 4.6285562,4.5578083 5.03125,4.1875 5.2325969,4.0023459 5.4891833,3.8936661 5.71875,3.875 z"
+       id="rect11261"
+       style="opacity:0.35;color:#bebebe;fill:#bebebe" />
+  </g>
+</svg>

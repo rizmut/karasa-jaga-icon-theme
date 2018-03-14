@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="edit-find-option-symbolic.svg">
+  <defs
+     id="defs10173">
+    <linearGradient
+       id="linearGradient4980">
+      <stop
+         style="stop-color:#595959;stop-opacity:1;"
+         offset="0"
+         id="stop4982" />
+      <stop
+         style="stop-color:#707070;stop-opacity:1;"
+         offset="1"
+         id="stop4984" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3873">
+      <stop
+         id="stop3875"
+         offset="0"
+         style="stop-color:#dadada;stop-opacity:1;" />
+      <stop
+         id="stop3877"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3587-6-5-3-5-7">
+      <stop
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1"
+         id="stop3589-9-2-2-6-2" />
+      <stop
+         offset="1"
+         style="stop-color:#363636;stop-opacity:1"
+         id="stop3591-7-4-73-5-1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="696"
+     id="namedview10171"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="-26.782767"
+     inkscape:cy="-0.20720322"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="g3963"
+     transform="translate(-0.46512597,-0.49999988)">
+    <path
+       inkscape:connector-curvature="0"
+       d="M 9.335315,8.5380261 C 9.281338,8.5596131 9.2304355,8.5895071 9.1845787,8.6265501 L 8.2734918,9.2443863 c -0.1386079,0.087649 -0.2358191,0.2297701 -0.2646596,0.3869271 -0.028841,0.157157 0.013758,0.3126313 0.1159746,0.4232826 l 5.5131092,5.790109 c 0.09497,0.105821 0.234268,0.162049 0.383128,0.154646 0.148861,-0.0074 0.293228,-0.07774 0.397058,-0.193447 l 0.944433,-1.051287 c 0.19322,-0.219769 0.192317,-0.537725 -0.0021,-0.721685 L 9.8140285,8.676274 C 9.6969096,8.5476262 9.515648,8.4952796 9.335315,8.5380261 z"
+       id="path3220-7"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline" />
+    <path
+       id="path3753"
+       d="M 6,1 C 3.2451699,1 1,3.2451694 1,6 1,8.7548303 3.2451699,11 6,11 8.75483,11 11,8.7548303 11,6 11,3.2451694 8.75483,1 6,1 z M 6,2.90625 C 7.7079289,2.90625 9.09375,4.2920707 9.09375,6 9.09375,7.7079291 7.7079289,9.09375 6,9.09375 4.292071,9.09375 2.90625,7.7079291 2.90625,6 2.90625,4.2920707 4.292071,2.90625 6,2.90625 z"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path2983"
+       d="M 14.621865,5.1734249 5.390773,14.350166 4.8267174,15.933808 6.5873494,15.687966 15.860081,6.4270162 c 0.06884,-0.052052 0.09197,-0.130542 0.04707,-0.2523285 L 14.847609,5.1534688 c -0.05427,-0.052227 -0.146593,-0.016953 -0.225744,0.019956 z"
+       style="fill:#bebebe;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

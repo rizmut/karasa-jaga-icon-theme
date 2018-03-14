@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="network-wired-symbolic.svg">
+  <defs
+     id="defs12">
+    <linearGradient
+       id="linearGradient4978">
+      <stop
+         id="stop4980"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop4982"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.74374998;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(4.6330676,-7.8953025)"
+       y2="1042.1121"
+       x2="16.716539"
+       y1="1025.8176"
+       x1="8.5924969"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient31768"
+       xlink:href="#linearGradient31755"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient31755"
+       inkscape:collect="always">
+      <stop
+         id="stop31757"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop31759"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-13.796885"
+     inkscape:cy="9.0169492"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="g3832">
+    <g
+       id="g3827">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7,9 v 4 H 9 V 9 H 7 z"
+         style="text-indent:0;text-transform:none;block-progression:tb;opacity:0.35;color:#bebebe;fill:#bebebe"
+         id="path12679" />
+      <path
+         style="text-indent:0;text-transform:none;block-progression:tb;opacity:0.35;color:#bebebe;fill:#bebebe"
+         d="M 2 13 L 2 15 L 9.34375 15 L 9.34375 13 L 2 13 z "
+         id="path12681" />
+      <path
+         style="opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none"
+         d="M 2.3125 0.90625 A 0.20980073 0.20980073 0 0 0 2.3125 0.9375 A 0.20980073 0.20980073 0 0 0 2.25 0.96875 C 2.2456 0.96875 2.2569 0.994 2.25 1 C 2.23962 1.01 2.23162 1.01625 2.21875 1.03125 C 2.17617 1.07625 2.14317 1.1302 2.125 1.1875 A 0.20980073 0.20980073 0 0 0 2.09375 1.21875 C 2.08905 1.24875 2.09135 1.2805 2.09375 1.3125 C 2.094534 1.3235 2.09215 1.33375 2.09375 1.34375 L 2.09375 8.71875 L 2.09375 8.75 C 2.093414 8.764 2.09275 8.7985 2.09375 8.8125 C 2.09245 8.8395 2.08705 8.86325 2.09375 8.90625 A 0.20980073 0.20980073 0 0 0 2.09375 8.9375 A 0.20980073 0.20980073 0 0 0 2.125 8.9375 A 0.20980073 0.20980073 0 0 0 2.125 8.96875 A 0.20980073 0.20980073 0 0 0 2.15625 9 C 2.16515 9.011 2.17713 9.02125 2.1875 9.03125 C 2.1969 9.04225 2.20778 9.0525 2.21875 9.0625 C 2.26482 9.1055 2.3179 9.13825 2.375 9.15625 A 0.20980073 0.20980073 0 0 0 2.375 9.1875 A 0.20980073 0.20980073 0 0 0 2.40625 9.1875 A 0.20980073 0.20980073 0 0 0 2.4375 9.1875 L 2.5 9.1875 L 6.65625 9.1875 L 6.65625 9.78125 C 5.958269 9.80525 5.285385 9.84725 4.8125 9.90625 C 4.524679 9.94225 4.283204 10.0086 4.09375 10.0625 C 4.02466 10.0815 3.971472 10.063 3.875 10.125 C 3.82255 10.156 3.747362 10.20795 3.6875 10.28125 C 3.62764 10.35525 3.5625 10.46325 3.5625 10.59375 C 3.5625 10.66275 3.5861 10.75335 3.65625 10.84375 C 3.67892 10.87375 3.6995 10.88725 3.71875 10.90625 C 3.72765 10.91725 3.73964 10.9275 3.75 10.9375 C 3.7567 10.9375 3.7421 10.96375 3.75 10.96875 L 3.78125 10.96875 A 0.20980073 0.20980073 0 0 0 3.78125 11 A 0.20980073 0.20980073 0 0 0 3.8125 11 A 0.20980073 0.20980073 0 0 0 3.84375 11.03125 A 0.20980073 0.20980073 0 0 0 3.875 11.03125 A 0.20980073 0.20980073 0 0 0 3.90625 11.03125 L 3.96875 11.03125 L 4 11.03125 C 4.0074 11.03145 4.02383 11.03145 4.03125 11.03125 C 4.03865 11.03105 4.05562 11.03185 4.0625 11.03125 L 9.34375 11.03125 L 9.34375 9.84375 L 10.3125 9.84375 C 9.993623 9.822399 9.7303443 9.7935541 9.375 9.78125 L 9.375 9.1875 L 13.53125 9.1875 L 13.5625 9.1875 L 13.625 9.1875 A 0.20980073 0.20980073 0 0 0 13.65625 9.1875 A 0.20980073 0.20980073 0 0 0 13.71875 9.15625 A 0.20980073 0.20980073 0 0 0 13.78125 9.125 C 13.78565 9.125 13.77445 9.09975 13.78125 9.09375 C 13.80148 9.07675 13.79874 9.0785 13.8125 9.0625 C 13.88006 8.9845 13.89584 8.9079 13.90625 8.875 A 0.20980073 0.20980073 0 0 0 13.9375 8.84375 C 13.9423 8.81375 13.9399 8.783 13.9375 8.75 C 13.936702 8.739 13.9391 8.72875 13.9375 8.71875 L 13.9375 1.34375 L 13.9375 1.3125 C 13.9407 1.2925 13.9375 1.272 13.9375 1.25 C 13.9375 1.228 13.9407 1.2075 13.9375 1.1875 A 0.20980073 0.20980073 0 0 0 13.90625 1.15625 A 0.20980073 0.20980073 0 0 0 13.875 1.125 A 0.20980073 0.20980073 0 0 0 13.875 1.09375 C 13.8659 1.08275 13.85431 1.0725 13.84375 1.0625 C 13.83445 1.0515 13.82344 1.04125 13.8125 1.03125 C 13.76654 0.98825 13.7136 0.9555 13.65625 0.9375 A 0.20980073 0.20980073 0 0 0 13.625 0.90625 A 0.20980073 0.20980073 0 0 0 13.59375 0.90625 L 13.53125 0.90625 L 2.53125 0.90625 C 2.52435 0.90565 2.50742 0.90645 2.5 0.90625 C 2.4926 0.90605 2.47617 0.90605 2.46875 0.90625 L 2.4375 0.90625 L 2.40625 0.90625 A 0.20980073 0.20980073 0 0 0 2.375 0.90625 A 0.20980073 0.20980073 0 0 0 2.34375 0.90625 A 0.20980073 0.20980073 0 0 0 2.3125 0.90625 z M 3.90625 2.375 L 12.125 2.375 L 12.125 7.65625 L 3.90625 7.65625 L 3.90625 2.375 z "
+         id="path4537" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 10.50003,11 1.375,0 1.125,1.09375 L 14.09378,11 l 1.40625,0 0,1.46875 -1.09375,1.0625 1.09375,1.0625 0,1.40625 -1.4375,0 -1.0625,-1.0625 -1.0625,1.0625 -1.4375,0 0,-1.40625 1.0625,-1.0625 -1.0625,-1.0625 0,-1.46875 z"
+       id="path3761-2-3-5-4-8-9-8-9-9"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
+  </g>
+  <g
+     inkscape:label="devices"
+     transform="translate(-201.49997,-177)"
+     id="layer10" />
+  <g
+     inkscape:label="apps"
+     transform="translate(-201.49997,-177)"
+     id="layer11" />
+  <g
+     inkscape:label="actions"
+     transform="translate(-201.49997,-177)"
+     id="layer12" />
+  <g
+     inkscape:label="places"
+     transform="translate(-201.49997,-177)"
+     id="layer13" />
+  <g
+     inkscape:label="mimetypes"
+     transform="translate(-201.49997,-177)"
+     id="layer14" />
+  <g
+     inkscape:label="emblems"
+     transform="translate(-201.49997,-177)"
+     id="layer15"
+     style="display:inline" />
+  <g
+     inkscape:label="categories"
+     transform="translate(-201.49997,-177)"
+     id="g4953"
+     style="display:inline" />
+</svg>
