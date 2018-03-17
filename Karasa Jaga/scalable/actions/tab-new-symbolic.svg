@@ -13,7 +13,7 @@
    height="16"
    width="16"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="tab-new-symbolic.svg">
   <defs
      id="defs9">
@@ -32,6 +32,14 @@
          offset="1"
          id="stop4470" />
     </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter7554">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -43,18 +51,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="696"
+     inkscape:window-height="706"
      id="namedview7"
      showgrid="false"
-     inkscape:zoom="16"
-     inkscape:cx="11.697827"
-     inkscape:cy="2.9720189"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="14.356462"
+     inkscape:cy="5.4287851"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384"
-     showguides="true"
-     inkscape:guide-bbox="true" />
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false" />
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
   <metadata
@@ -69,14 +78,37 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <path
-     style="fill:#bebebe;fill-opacity:1;stroke:none"
-     d="M 1.9375 1 C 1.461579 1 1.092991 1.367828 1.09375 1.84375 L 1.09375 5.5 C 0.97630705 5.59823 0.875435 5.70104 0.59375 5.75 L 0.59375 7.3125 L 0.5625 7.3125 L 0.5625 12.875 L 7.65625 12.875 L 7.65625 11.625 L 1.8125 11.625 L 1.8125 7.5625 A 1.250125 1.250125 0 0 0 1.84375 7.3125 L 1.84375 6.5 C 1.8500786 6.4950332 1.9028594 6.4715859 1.90625 6.46875 A 1.250125 1.250125 0 0 0 2.34375 5.5 L 2.34375 2.25 L 9.25 2.25 L 9.25 5.71875 A 1.250125 1.250125 0 0 0 10.5 6.96875 L 14.21875 6.96875 L 14.21875 7.3125 L 14.21875 7.75 L 14.21875 8.21875 A 1.6502123 1.6502123 0 0 1 14.96875 9.625 L 14.96875 9.96875 L 15.3125 9.96875 A 1.6502123 1.6502123 0 0 1 15.46875 9.96875 L 15.46875 7.75 L 15.46875 7.3125 L 15.46875 6.5625 C 15.46875 6.4435195 15.44817 6.3201604 15.40625 6.21875 C 15.32241 6.0159292 15.171571 5.8650903 14.96875 5.78125 C 14.86734 5.7393298 14.743981 5.71875 14.625 5.71875 L 10.5 5.71875 L 10.5 1.84375 C 10.499992 1.367831 10.132173 1 9.65625 1 L 1.9375 1 z "
-     id="rect3464" />
-  <path
-     d="m 11.298482,9.609647 0,2 -2,0 0,2 2,0 0,2 2,0 0,-2 2,0 0,-2 -2,0 0,-2 z"
-     inkscape:connector-curvature="0"
-     id="path3107-4-3-2"
-     style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     sodipodi:nodetypes="ccccccccccccc" />
+  <g
+     id="g881">
+    <path
+       sodipodi:nodetypes="scccccccsscccsccsccss"
+       inkscape:connector-curvature="0"
+       id="rect3464"
+       d="M 1.9375,1 C 1.461579,1 1.092991,1.367828 1.09375,1.84375 V 5.5 c -0.11744295,0.09823 -0.218315,0.20104 -0.5,0.25 V 7.3125 H 0.5625 v 5.5625 h 7.5039062 c -0.010642,-0.125864 -0.039062,-0.246383 -0.039062,-0.375 0,-2.469972 2.0026838,-4.4726562 4.4726558,-4.4726562 1.144718,0 2.177699,0.4430092 2.96875,1.1503906 V 7.75 7.3125 6.5625 c 0,-0.1189805 -0.02058,-0.2423396 -0.0625,-0.34375 C 15.32241,6.0159292 15.171571,5.8650903 14.96875,5.78125 14.86734,5.73933 14.743981,5.71875 14.625,5.71875 H 10.5 v -3.875 C 10.499992,1.367831 10.132173,1 9.65625,1 Z"
+       style="fill:#bebebe;fill-opacity:1;stroke:none" />
+    <g
+       transform="translate(7.9982909,16.482281)"
+       id="g30"
+       style="enable-background:new">
+      <g
+         id="layer12"
+         transform="translate(-345,-20.997)" />
+    </g>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       sodipodi:nodetypes="sssssccccccccccccc"
+       id="path6731"
+       d="M 12.5,9.0000003 C 10.567,9.0000003 9,10.567 9,12.5 9,14.433 10.567,16 12.5,16 14.433,16 16,14.433 16,12.5 16,10.567 14.433,9.0000003 12.5,9.0000003 Z M 12,10 h 1 v 2 h 2 v 1 h -2 v 2 h -1 v -2 h -2 v -1 h 2 z"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text832"
+       y="11.448"
+       x="-0.70710677"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="46.838623"
+         x="-0.70710677"
+         id="tspan830"
+         sodipodi:role="line"></tspan></text>
+  </g>
 </svg>

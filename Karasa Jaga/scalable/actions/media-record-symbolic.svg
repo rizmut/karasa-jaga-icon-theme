@@ -10,12 +10,74 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="16"
-   height="16"
    id="svg7384"
-   inkscape:version="0.48.3.1 r9886"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="media-record-symbolic.svg">
+  <defs
+     id="defs7527">
+    <inkscape:perspective
+       id="perspective18"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 8 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="13.168831"
+       x2="5.8043289"
+       y1="4.7809148"
+       x1="5.8043289"
+       gradientTransform="scale(1.1952286,0.83666)"
+       id="StandardGradient">
+      <stop
+         id="stop3389"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:0.86274511;" />
+      <stop
+         id="stop3391"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0.47058824;" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3648" />
+    <linearGradient
+       y2="13.168831"
+       x2="5.8043289"
+       y1="4.7809148"
+       x1="5.8043289"
+       gradientTransform="matrix(-1.1952286,0,0,0.83666,-25,0)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3627"
+       xlink:href="#StandardGradient"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath3634"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3636"
+         d="m -20,0 0,16 16,0 0,-16 -16,0 z m 2,4 5,3.34375 L -13,4 -8,7.34375 -8,4 -6,4 -6,12 -8,12 -8,8.65625 -13,12 -13,8.65625 -18,12 -18,4 z"
+         style="fill:#ff00ff;fill-opacity:1;stroke:none;display:inline" />
+    </clipPath>
+    <linearGradient
+       y2="13.168831"
+       x2="5.8043289"
+       y1="4.7809148"
+       x1="5.8043289"
+       gradientTransform="matrix(-1.1952286,0,0,0.83666,-5,0)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5025"
+       xlink:href="#StandardGradient"
+       inkscape:collect="always" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,87 +88,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="696"
-     id="namedview8"
+     inkscape:window-height="657"
+     id="namedview7525"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-2.4067797"
-     inkscape:cy="8"
+     inkscape:zoom="10.429825"
+     inkscape:cx="12.235332"
+     inkscape:cy="4.7775385"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384" />
-  <title
-     id="title9167">Gnome Symbolic Icon Theme</title>
-  <defs
-     id="defs7527">
-    <clipPath
-       id="clipPath2861"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path2863"
-         d="m -20,0 0,16 16,0 0,-16 -16,0 z m 8,2 c 3.312,0 6,2.6880001 6,6 0,3.312 -2.688,6 -6,6 -3.312,0 -6,-2.688 -6,-6 0,-3.3119999 2.688,-6 6,-6 z"
-         style="fill:#ff00ff;fill-opacity:1;stroke:none;display:inline" />
-    </clipPath>
-    <linearGradient
-       y2="14.000651"
-       x2="6.5625"
-       y1="2"
-       x1="6.5625"
-       gradientTransform="translate(-20,0)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient2856"
-       xlink:href="#SpecificGradient"
-       inkscape:collect="always" />
-    <clipPath
-       id="clipPath3635"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path3637"
-         d="m -20,0 0,16 16,0 0,-16 -16,0 z m 8,2 c 3.312,0 6,2.6880001 6,6 0,3.312 -2.688,6 -6,6 -3.312,0 -6,-2.688 -6,-6 0,-3.3119999 2.688,-6 6,-6 z m 0,2.15625 c -0.57648,0 -1.133672,0.1167299 -1.625,0.34375 L -8.5,9.625 C -8.273784,9.1343862 -8.15625,8.5753957 -8.15625,8 -8.15625,5.8708574 -9.870857,4.1562499 -12,4.15625 z m -3.46875,2.125 c -0.255374,0.5152866 -0.375,1.1050247 -0.375,1.71875 0,2.129143 1.714607,3.84375 3.84375,3.84375 0.61479,0 1.202796,-0.118796 1.71875,-0.375 l -5.1875,-5.1875 z"
-         style="fill:#ff00ff;fill-opacity:1;stroke:none;display:inline" />
-    </clipPath>
-    <linearGradient
-       gradientTransform="translate(-20,0)"
-       y2="14.000651"
-       x2="6.5625"
-       y1="2"
-       x1="6.5625"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3628"
-       xlink:href="#SpecificGradient"
-       inkscape:collect="always" />
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       id="perspective3648" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="14.000651"
-       x2="6.5625"
-       y1="2"
-       x1="6.5625"
-       id="SpecificGradient">
-      <stop
-         id="stop3292"
-         offset="0"
-         style="stop-color:#ad0707;stop-opacity:1;" />
-      <stop
-         id="stop3294"
-         offset="1"
-         style="stop-color:#f75535;stop-opacity:1;" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective19"
-       inkscape:persp3d-origin="8 : 5.3333333 : 1"
-       inkscape:vp_z="16 : 8 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 8 : 1"
-       sodipodi:type="inkscape:persp3d" />
-  </defs>
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -119,21 +110,19 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     inkscape:connector-curvature="0"
+     id="path4646-0"
+     style="color:#bebebe;text-indent:0pt;text-transform:none;fill:#d40000;fill-opacity:1;stroke-width:0.88454121"
+     d="M 8,3.5927733 C 5.5678654,3.5927733 3.5927733,5.5678654 3.5927733,8 c 0,2.432135 1.9750921,4.407227 4.4072267,4.407227 2.432135,0 4.407227,-1.975092 4.407227,-4.407227 C 12.407227,5.5678654 10.432135,3.5927733 8,3.5927733 Z" />
   <g
-     id="g3027">
-    <path
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
-       id="path7529"
-       d="m 8,0.09375 c 4.362113,0 7.90625,3.5441366 7.90625,7.90625 0,4.362113 -3.544137,7.90625 -7.90625,7.90625 C 3.637887,15.90625 0.09375,12.362113 0.09375,8 0.09375,3.6378866 3.637887,0.09375 8,0.09375 z M 8,1.0625 C 4.162089,1.0625 1.0625,4.1620891 1.0625,8 c 0,3.837911 3.099589,6.9375 6.9375,6.9375 3.837911,0 6.9375,-3.099589 6.9375,-6.9375 C 14.9375,4.1620891 11.837911,1.0625 8,1.0625 z" />
-    <g
-       style="fill:#d40000;fill-opacity:1"
-       id="layer12"
-       transform="translate(-200,-496.0025)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4646-0"
-         style="text-indent:0pt;text-transform:none;color:#bebebe;fill:#d40000;fill-opacity:1"
-         d="m 208,499.02 c -2.7496,0 -4.9825,2.2329 -4.9825,4.9825 0,2.7496 2.2329,4.9825 4.9825,4.9825 2.7496,0 4.9825,-2.2329 4.9825,-4.9825 0,-2.7496 -2.2329,-4.9825 -4.9825,-4.9825 z" />
-    </g>
-  </g>
+     id="g838"
+     transform="matrix(0.86549424,0,0,0.86549424,0.9392606,1.0760462)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#bebebe;fill-opacity:1;stroke:none"
+     d="M 8,0.09375 C 3.637887,0.09375 0.09375,3.6378866 0.09375,8 c 0,4.362113 3.544137,7.90625 7.90625,7.90625 4.362113,0 7.90625,-3.544137 7.90625,-7.90625 C 15.90625,3.6378866 12.362113,0.09375 8,0.09375 Z m 0,1.6269531 c 3.464383,0 6.279297,2.8149133 6.279297,6.2792969 0,3.464383 -2.814914,6.279297 -6.279297,6.279297 C 4.535616,14.279297 1.720703,11.464383 1.720703,8 1.720703,4.5356164 4.535616,1.7207031 8,1.7207031 Z"
+     id="path7529" />
 </svg>

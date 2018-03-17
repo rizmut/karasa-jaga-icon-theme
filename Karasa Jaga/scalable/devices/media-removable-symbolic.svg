@@ -13,7 +13,7 @@
    height="16"
    width="16"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="media-removable-symbolic.svg">
   <defs
      id="defs9">
@@ -43,12 +43,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="711"
+     inkscape:window-height="697"
      id="namedview7"
      showgrid="false"
-     inkscape:zoom="11.313709"
-     inkscape:cx="-3.3469306"
-     inkscape:cy="12.835511"
+     inkscape:zoom="16.000001"
+     inkscape:cx="-11.799711"
+     inkscape:cy="11.770643"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -69,19 +69,14 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="g5689"
-     transform="translate(-0.0078125,-0.51172)">
-    <path
-       d="M 11.078125,5.1082314 11.0625,13.789429 C 11.05873,15.884023 9.696625,16.039065 8,16.039065 c -1.696625,0 -3.0625,-0.155039 -3.0625,-2.249636 L 4.953125,5.1082314 z"
-       style="fill:#bebebe"
-       id="rect9463"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssscc" />
-    <path
-       id="rect9466"
-       d="m 5.6875,0.984375 0,3.0625 4.625,0 0,-3.0625 -4.625,0 z m 0.78125,0.34375 0.875,0 0,2.28125 -0.875,0 0,-1.09375 0,-0.78125 0,-0.40625 z m 2.1875,0 0.875,0 0,0.40625 0,0.78125 0,1.09375 -0.875,0 0,-2.28125 z"
-       style="fill:#bebebe"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     style="fill:#bebebe;stroke-width:1.01700747"
+     d="m 4.9453147,4.4570311 -0.015625,8.9794569 c 0,2.16645 1.365875,2.327184 3.0625,2.327184 1.6966251,0 3.0586993,-0.160737 3.0625003,-2.327184 l 0.01562,-8.9794569 z m 0.6621094,0.6868426 h 4.7968749 l -0.01367,8.2905943 c -0.0016,0.934258 -0.200483,1.177812 -0.5488278,1.373685 -0.3483448,0.195872 -1.0215882,0.268676 -1.8496095,0.268676 -0.8280215,0 -1.5008209,-0.07272 -1.8496094,-0.268676 C 5.7941491,14.612399 5.5941591,14.369949 5.5937522,13.438508 Z"
+     id="rect9463"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 5.3906272,0.236328 V 3.7154948 H 10.609377 V 0.236328 Z M 6.2604015,1.1061197 H 7.1301931 V 1.9759114 H 6.2604015 Z m 2.609375,0 H 9.7395682 V 1.9759114 H 8.8697765 Z"
+     style="fill:#bebebe;stroke-width:0.86979169"
+     id="rect9466-3" />
 </svg>

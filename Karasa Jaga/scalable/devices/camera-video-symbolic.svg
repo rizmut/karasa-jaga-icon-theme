@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="camera-video-symbolic.svg">
+  <defs
+     id="defs8853">
+    <linearGradient
+       id="linearGradient4565">
+      <stop
+         id="stop4567"
+         offset="0"
+         style="stop-color:#161616;stop-opacity:1;" />
+      <stop
+         id="stop4569"
+         offset="1"
+         style="stop-color:#3a3a3a;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4565"
+       id="linearGradient4548"
+       gradientUnits="userSpaceOnUse"
+       x1="136.23065"
+       y1="40.918156"
+       x2="54.675591"
+       y2="-40.636906" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview8851"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="-27.500861"
+     inkscape:cy="-21.735775"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384"
+     inkscape:snap-page="false"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.87038612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 9.2129426,3.0845472 c 0,-2e-7 -7.3237008,2.9892851 -7.8244107,3.4065433 l -0.124098,0.083299 C -0.53400817,8.7073881 0.44518492,13.400395 5.0196741,12.332198 5.1525257,12.279057 7.9756339,10.692456 10.389888,9.333445 l -3.10585,1.650674 0.1485139,-3.7986788 0.883282,-0.6007468 5.0490071,-0.0052 V 3.8204331 L 12.280258,3.1523438 C 11.435347,3.0409813 10.505675,2.9719989 9.2129426,3.0845472 Z m -6.489932,4.24123 C 3.6666504,7.3556544 4.506958,8.1589943 4.7323787,9.2467467 4.9940746,10.509352 4.343394,11.711779 3.2789018,11.932703 2.2141102,12.153487 1.1386413,11.308638 0.8768401,10.045734 0.61514371,8.7831283 1.2658244,7.5807006 2.330317,7.3597767 2.4590197,7.333032 2.5905741,7.321642 2.7230106,7.3257772 Z M 13.364841,7.6538721 13.135345,7.7881698 c 0.01242,-0.00701 0.229496,-0.1291979 0.229496,-0.1291979 z"
+     id="path908"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccccccc" />
+  <path
+     style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.78310156"
+     d="M 2.4731022,8.4620238 A 1.3538364,1.1414701 79.719126 0 0 2.1629233,8.5773551 0.69266056,0.58400796 79.719126 0 1 2.6223438,9.1391205 0.69266056,0.58400796 79.719126 0 1 2.1711148,9.9251345 0.69266056,0.58400796 79.719126 0 1 1.5695912,9.608322 1.3538364,1.1414701 79.719126 0 0 1.5920008,9.9975337 1.3538364,1.1414701 79.719126 0 0 2.9565409,11.127271 1.3538364,1.1414701 79.719126 0 0 3.8373692,9.5902553 1.3538364,1.1414701 79.719126 0 0 2.4731022,8.4620238 Z"
+     id="path880"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.07638884px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 6.9309116,7.4667792 0.1880952,3.6703638 7.2243502,-0.0275 0.670819,-0.593417 -0.01897,-3.0981332 z"
+     id="path906"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccc" />
+</svg>

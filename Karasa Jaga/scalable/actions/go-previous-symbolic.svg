@@ -13,8 +13,8 @@
    height="16px"
    id="svg13294"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Dokumen baru 17">
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="go-previous-symbolic.svg">
   <defs
      id="defs13296" />
   <sodipodi:namedview
@@ -24,15 +24,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.098901"
-     inkscape:cx="-2.9463859"
-     inkscape:cy="4.5768654"
+     inkscape:zoom="16"
+     inkscape:cx="2.4692807"
+     inkscape:cy="7.2323592"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="696"
+     inkscape:window-height="697"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,9 +53,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       d="M 8.8027343,2.2597656 0.92773425,8.0078125 c 0.00135,0.0052 0.00265,0.010406 0.00391,0.015625 L 8.7910193,13.755859 9.8476599,12.699219 7.5097693,10.361328 C 6.9181588,9.7696226 5.3370974,8.7580036 6.173828,8.7578125 h 8.898438 V 7.2675781 H 6.1464843 C 5.3097516,7.2673905 6.8908098,6.2557692 7.4824218,5.6640625 L 9.8320312,3.3144531 Z"
+       id="path29297"
        inkscape:connector-curvature="0"
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 7.8090815,1.2456234 C 7.6019866,1.2372622 7.4066153,1.3316103 7.2542769,1.4839549 L 1.2530098,7.3562885 C 1.1292352,7.4800741 1.0505546,7.6240151 1.0146782,7.7782526 c -0.0184273,0.079239 -0.0324412,0.1553188 -0.0273495,0.2344245 -0.001463,0.025523 -0.001,0.052442 0,0.078142 0.00797,0.046322 0.0109398,0.088822 0.0273495,0.1328406 0.034248,0.1590636 0.1109266,0.3219042 0.2383316,0.4493136 L 7.2542769,14.5414 c 0.3046781,0.304677 0.802982,0.279278 1.1330517,-0.05079 l 1.1838437,-1.183844 c 0.3300685,-0.33007 0.3593797,-0.855724 0.054699,-1.160401 l -2.449736,-2.4497366 6.9975696,0 c 0.02918,0 0.05756,-0.00104 0.08596,-0.00391 0.425909,-0.042995 0.754065,-0.3985055 0.754065,-0.836114 l 0,-1.6839493 c 0,-0.4667898 -0.373232,-0.8439282 -0.840021,-0.8439282 l -7.0249191,0 2.4770855,-2.4770855 C 9.930552,3.5469518 9.9012408,3.0525636 9.5711723,2.7224977 L 8.3873286,1.5113045 C 8.2222938,1.3462721 8.0161778,1.2539114 7.8090815,1.2456234 z"
-       id="path29297" />
+       sodipodi:nodetypes="ccccccccccccc" />
   </g>
 </svg>

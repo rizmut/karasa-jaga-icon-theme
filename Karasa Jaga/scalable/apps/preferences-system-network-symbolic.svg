@@ -15,7 +15,7 @@
    height="16"
    width="16"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="preferences-system-network-symbolic.svg">
   <defs
      id="defs4225">
@@ -66,16 +66,6 @@
          offset="0"
          style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB"
-       id="filter7554">
-      <feBlend
-         inkscape:collect="always"
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        gradientTransform="matrix(0.08112299,0,0,0.07855526,540.8143,254.8467)"
@@ -379,12 +369,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="696"
+     inkscape:window-height="706"
      id="namedview4223"
      showgrid="false"
-     inkscape:zoom="20.85965"
-     inkscape:cx="5.6096254"
-     inkscape:cy="4.6632914"
+     inkscape:zoom="10.429825"
+     inkscape:cx="19.624685"
+     inkscape:cy="-5.1461933"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -405,6 +395,15 @@
   </metadata>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="g859">
+    <path
+       sodipodi:nodetypes="cccccccccccccccccc"
+       id="rect4197"
+       style="color:#000000;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#bebebe;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+       d="m 6,13 v 1 H 0 v 1 h 6 v 1 h 4 v -1 h 6 v -1 h -6 v -1 z m 1,1 h 2 v 1 H 7 Z"
+       inkscape:connector-curvature="0" />
+  </g>
   <g
      id="g4022">
     <g
@@ -463,11 +462,5 @@
          style="fill:#bebebe;fill-opacity:1;display:inline"
          transform="translate(-821.00018,269)" />
     </g>
-    <path
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:connector-curvature="0"
-       id="path4618"
-       d="m 7.375,12.40898 0,2.125 -5.9375,0 0,1.21875 13.125,0 0,-1.21875 -5.9375,0 0,-2.125 z"
-       style="fill:#bebebe;fill-opacity:1;stroke:none" />
   </g>
 </svg>

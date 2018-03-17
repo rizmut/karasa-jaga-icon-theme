@@ -7,14 +7,36 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="16"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
    height="16"
-   id="svg7384">
-  <title
-     id="title9167">Gnome Symbolic Icon Theme</title>
+   width="16"
+   version="1.1"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="media-playback-stop-symbolic.svg">
   <defs
      id="defs7527" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview7525"
+     showgrid="false"
+     inkscape:zoom="10.429825"
+     inkscape:cx="-4.6657812"
+     inkscape:cy="7.189733"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -27,16 +49,20 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     transform="translate(-140,-606)"
+     id="layer12-5">
+    <path
+       d="m 144,610 v 8 h 8 v -8 z"
+       style="color:#bebebe;text-indent:0pt;text-transform:none;fill:#bebebe"
+       id="path3807-1-1-5-8"
+       inkscape:connector-curvature="0" />
+  </g>
   <path
-     d="m 8,0.09375 c 4.362113,0 7.90625,3.5441366 7.90625,7.90625 0,4.362113 -3.544137,7.90625 -7.90625,7.90625 C 3.637887,15.90625 0.09375,12.362113 0.09375,8 0.09375,3.6378866 3.637887,0.09375 8,0.09375 z M 8,1.0625 C 4.162089,1.0625 1.0625,4.1620891 1.0625,8 c 0,3.837911 3.099589,6.9375 6.9375,6.9375 3.837911,0 6.9375,-3.099589 6.9375,-6.9375 C 14.9375,4.1620891 11.837911,1.0625 8,1.0625 z"
-     id="path7529"
-     style="fill:#bebebe;fill-opacity:1;stroke:none" />
-  <rect
-     width="8.9491529"
-     height="8.9491529"
-     ry="0.36763248"
-     x="3.5254235"
-     y="3.5254235"
-     id="rect4988"
-     style="fill:#bebebe;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="fill:#bebebe;fill-opacity:1;stroke:none"
+     d="m 8,0.09375 c 4.362113,0 7.90625,3.5441366 7.90625,7.90625 0,4.362113 -3.544137,7.90625 -7.90625,7.90625 C 3.637887,15.90625 0.09375,12.362113 0.09375,8 0.09375,3.6378866 3.637887,0.09375 8,0.09375 Z M 8,1.7207031 C 4.535617,1.7207031 1.720703,4.5356164 1.720703,8 c 0,3.464383 2.814914,6.279297 6.279297,6.279297 3.464384,0 6.279297,-2.814914 6.279297,-6.279297 C 14.279297,4.5356164 11.464384,1.7207031 8,1.7207031 Z"
+     id="path7529" />
 </svg>

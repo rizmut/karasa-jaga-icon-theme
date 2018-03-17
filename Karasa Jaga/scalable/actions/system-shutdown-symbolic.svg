@@ -1,18 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16.024" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>Gnome Symbolic Icon Theme</dc:title>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <title id="title9167">Gnome Symbolic Icon Theme</title>
- <g id="layer12" transform="translate(-100 -685.98)">
-  <path id="path3869-2" style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#bebebe" d="m104.84 687.81a0.99998 1.0002 0 0 0 -0.34813 0.13393c-1.0534 0.60965-1.9314 1.466-2.544 2.5179-1.9396 3.3304-0.81232 7.6493 2.5173 9.5893s7.6475 0.8125 9.587-2.5179c1.9396-3.3304 0.81232-7.6493-2.5173-9.5893a1.0081 1.0084 0 1 0 -1.0176 1.7411c2.3957 1.3959 3.1898 4.4341 1.7942 6.8304s-4.433 3.1905-6.8288 1.7946c-2.3854-1.3899-3.1918-4.4121-1.821-6.8036l0.0268-0.0268c0.43759-0.75138 1.0685-1.3859 1.821-1.8214a0.99998 1.0002 0 0 0 -0.66949 -1.8482z"/>
-  <path id="path4710" style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#bebebe" d="m107.78 686a1.0001 1.0001 0 0 0 -0.78 1v5a1.0001 1.0001 0 1 0 2 0v-5a1.0001 1.0001 0 0 0 -1.2188 -1z"/>
- </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   sodipodi:docname="system-shutdown-symbolic.svg"
+   inkscape:version="0.92.2 (unknown)">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview7"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="35.339087"
+     inkscape:cy="6.1418079"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.28342021"
+     d="M 8 0.43164062 C 3.8199375 0.43216038 0.43216038 3.8199375 0.43164062 8 C 0.43216032 12.180063 3.8199375 15.567839 8 15.568359 C 12.180063 15.567839 15.567839 12.180063 15.568359 8 C 15.567839 3.8199375 12.180063 0.43216031 8 0.43164062 z M 7.984375 1.8925781 A 0.79401575 0.79401575 0 0 1 7.9960938 1.8925781 A 0.79401575 0.79401575 0 0 1 8.7929688 2.7050781 L 8.7929688 6.6738281 A 0.79401575 0.79401575 0 1 1 7.2050781 6.6738281 L 7.2050781 2.7050781 A 0.79401575 0.79401575 0 0 1 7.8261719 1.9101562 A 0.79401575 0.79401575 0 0 1 7.984375 1.8925781 z M 4.4160156 4.0117188 L 5.515625 5.1660156 C 5.1404663 5.4706808 4.8199108 5.8432036 4.5761719 6.2617188 L 4.5546875 6.2832031 C 3.4663595 8.1819019 4.1080973 10.580102 6.0019531 11.683594 C 7.9040658 12.79185 10.31581 12.162276 11.423828 10.259766 C 12.388302 8.6037257 12.033889 6.5623308 10.671875 5.3300781 L 11.828125 4.2207031 C 13.65548 5.956502 14.125115 8.801107 12.804688 11.068359 C 11.264848 13.712484 7.8368658 14.606643 5.1933594 13.066406 C 2.549853 11.526169 1.6553936 8.0972507 3.1953125 5.453125 C 3.5172299 4.9003627 3.930198 4.4166739 4.4160156 4.0117188 z "
+     id="path831" />
 </svg>

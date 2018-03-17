@@ -13,7 +13,7 @@
    height="16"
    width="16"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="application-certificate-symbolic.svg">
   <defs
      id="defs12" />
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="711"
+     inkscape:window-height="706"
      id="namedview10"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="10.429825"
-     inkscape:cx="22.232579"
-     inkscape:cy="-3.9643711"
+     inkscape:zoom="20.85965"
+     inkscape:cx="10.625386"
+     inkscape:cy="10.329689"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -42,11 +42,13 @@
     <sodipodi:guide
        orientation="1,0"
        position="11.254237,4.8474576"
-       id="guide3977" />
+       id="guide3977"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="15.724137,10.35492"
-       id="guide3981" />
+       id="guide3981"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata90">
@@ -63,7 +65,15 @@
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
   <path
-     style="fill:#bebebe;fill-opacity:1;stroke:none"
-     d="M 1.40625 2.28125 C 0.87445667 2.28125 0.4375 2.5735987 0.4375 2.90625 L 0.4375 12.9375 C 0.4375 13.270152 0.87445667 13.5625 1.40625 13.5625 L 8.1875 13.5625 L 8.1875 11.78125 L 2.25 11.78125 L 2.25 4.15625 L 13.65625 4.15625 L 13.65625 11.78125 L 12.59375 11.78125 L 12.59375 11.9375 L 12.59375 13.28125 L 12.59375 13.5625 L 14.5625 13.5625 C 15.094293 13.5625 15.53125 13.270152 15.53125 12.9375 L 15.53125 2.90625 C 15.53125 2.5735987 15.094293 2.28125 14.5625 2.28125 L 1.40625 2.28125 z M 10.53125 5.84375 L 9.96875 6.5 L 8.8125 6.5 L 8.8125 7.65625 L 8.125 8.5625 L 8.8125 8.5625 L 8.84375 15.46875 L 10.53125 13.875 L 12.21875 15.46875 L 12.21875 8.5625 L 12.9375 8.5625 L 12.21875 7.65625 L 12.25 6.5 L 11.09375 6.5 L 10.5625 5.84375 L 10.53125 5.84375 z "
-     id="rect4110" />
+     style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.94282997"
+     d="m 1.7823215,2.6037246 c -0.5013907,0 -0.91336651,0.2756352 -0.91336651,0.5892688 v 9.4577636 c 0,0.313634 0.41197581,0.589268 0.91336651,0.589268 H 8.1758873 V 12.357964 H 1.8062605 V 3.6331035 H 14.191953 v 8.7248605 h -1.861721 v 0.61689 0.265171 h 1.856196 c 0.501391,0 0.913367,-0.275634 0.913367,-0.589268 V 3.1929934 c 0,-0.3136336 -0.411976,-0.5892688 -0.913367,-0.5892688 z"
+     id="rect4110"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssscccccccccsssss" />
+  <path
+     id="path818"
+     d="M 10.172909,5.9090616 9.7000617,6.4607165 H 8.7280984 V 7.4326798 L 8.1501742,8.1944889 H 8.7280984 L 8.7543674,16 10.172909,14.660267 11.59145,16 V 8.1944889 h 0.604193 L 11.59145,7.4326798 11.617719,6.4607165 H 10.645756 L 10.199178,5.9090616 Z"
+     style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.84061694"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccc" />
 </svg>

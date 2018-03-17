@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.2 (unknown)"
    width="16"
    height="16"
    sodipodi:docname="user-desktop-symbolic.svg">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,12 +62,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="700"
+     inkscape:window-height="706"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="16"
-     inkscape:cx="8.138195"
-     inkscape:cy="7.8547864"
+     inkscape:zoom="22.627417"
+     inkscape:cx="0.62033543"
+     inkscape:cy="6.04843"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -76,18 +76,32 @@
        type="xygrid"
        id="grid3007" />
   </sodipodi:namedview>
-  <g
-     id="g4156">
-    <path
-       id="rect3356"
-       d="M 0.0625 0.9375 L 0.0625 14.1875 L 15.9375 14.1875 L 15.9375 0.9375 L 0.0625 0.9375 z M 0.9375 1.65625 L 15.0625 1.65625 L 15.0625 13.46875 L 0.9375 13.46875 L 0.9375 1.65625 z "
-       style="fill:#bebebe;fill-opacity:1;stroke:none" />
-    <rect
-       y="11.213672"
-       x="1.59375"
-       height="1.760156"
-       width="12.8125"
-       id="rect4132"
-       style="fill:#bebebe;fill-opacity:1;stroke:none" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.86423117"
+     d="M 1.140165,1.8369684 V 13.288031 h 13.71967 V 1.8369684 Z M 1.8963673,2.4581346 H 14.103633 V 12.666865 H 1.8963673 Z"
+     id="rect3356" />
+  <rect
+     style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.59156936"
+     id="rect4132"
+     width="11.072962"
+     height="0.71274245"
+     x="2.4635191"
+     y="10.377561" />
+  <rect
+     y="-4.5052357"
+     x="11.36712"
+     height="0.71274245"
+     width="0.90364623"
+     id="rect824"
+     style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.16899467"
+     transform="rotate(90)" />
+  <rect
+     transform="rotate(90)"
+     style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.16899467"
+     id="rect826"
+     width="0.90364623"
+     height="0.71274245"
+     x="11.36712"
+     y="-12.207507" />
 </svg>

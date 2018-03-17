@@ -13,8 +13,8 @@
    height="16.03"
    width="16.054"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="view-fullscreen-symbolic.svg">
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="view-restore-symbolic.svg">
   <defs
      id="defs3108" />
   <sodipodi:namedview
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="696"
+     inkscape:window-height="716"
      id="namedview3106"
      showgrid="false"
      inkscape:zoom="14.722395"
-     inkscape:cx="8.6533836"
-     inkscape:cy="1.7365698"
+     inkscape:cx="-0.14283107"
+     inkscape:cy="11.922367"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384" />
   <metadata
@@ -53,12 +53,12 @@
      id="title9167">Gnome Symbolic Icon Theme</title>
   <path
      style="fill:#bebebe;fill-opacity:1;stroke:none"
-     d="m 2.6695181,14.846494 2.5466776,-2.546678 c 0.7809697,0.819737 1.5313449,1.640234 2.2591495,2.382376 l 0,-6.3666936 -6.0380905,0 c 0.6173982,0.648984 1.3631358,1.405603 2.0537723,2.1359226 l -2.58775307,2.628828 1.76624417,1.766245 z"
-     id="path4149"
+     d="M 14.503503,7.707435 11.44491,6.086341 c 0.0022,-0.0021 0.0057,-0.0018 0.0078,-0.0039 l 3.488283,-3.488287 c 0.244593,-0.2445938 0.27964,-0.6031729 0.08008,-0.8027348 L 14.540612,1.3129036 C 14.341051,1.1133417 13.984425,1.1483884 13.739832,1.3929817 L 10.304285,4.828529 8.6265496,1.6136848 V 7.707435 Z"
+     id="path4153"
      inkscape:connector-curvature="0" />
   <path
-     inkscape:connector-curvature="0"
-     id="path4153"
-     d="m 13.384483,1.1835064 -2.546678,2.546678 C 10.056836,2.9104474 9.3064598,2.0899504 8.5786558,1.3478084 l 0,6.3666939 6.0380902,0 C 13.999348,7.0655183 13.253611,6.3088993 12.562974,5.5785794 l 2.587753,-2.628829 -1.766244,-1.766244 z"
-     style="fill:#bebebe;fill-opacity:1;stroke:none" />
+     id="path904"
+     d="m 1.5501521,8.3226527 3.058593,1.621094 c -0.0022,0.0021 -0.0057,0.0018 -0.0078,0.0039 l -3.488283,3.4882873 c -0.24459299,0.244594 -0.27963999,0.603173 -0.08008,0.802735 l 0.480461,0.478515 c 0.199561,0.199562 0.556187,0.164515 0.80078,-0.08008 l 3.435547,-3.435547 1.6777355,3.214844 V 8.3226527 Z"
+     style="fill:#bebebe;fill-opacity:1;stroke:none"
+     inkscape:connector-curvature="0" />
 </svg>

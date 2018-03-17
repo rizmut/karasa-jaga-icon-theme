@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   sodipodi:docname="battery-missing-symbolic.svg"
+   inkscape:version="0.92.2 (unknown)"
+   inkscape:export-filename="/usr/share/icons/Karasa Jaga/24x24/status/gpm-battery-100-charging.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1317"
+     inkscape:window-height="704"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="9.875"
+     inkscape:cx="-11.831421"
+     inkscape:cy="2.0396631"
+     inkscape:window-x="49"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     inkscape:snap-global="true"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3703" />
+  </sodipodi:namedview>
+  <path
+     style="opacity:1;fill:#bebebe;fill-opacity:0.43382353;stroke:none;stroke-width:0.65779859"
+     d="M 10.509766 2.7148438 L 10.509766 4.0605469 C 11.487104 4.3221519 12.477785 4.3554671 13.490234 4.0605469 L 13.490234 2.7148438 C 12.496391 2.9539161 11.503609 2.9397995 10.509766 2.7148438 z M 9.1621094 4.0898438 A 1.1342983 1.1342983 0 0 0 8.0019531 5.2246094 L 8.0019531 7.8105469 L 8.0019531 8.2109375 L 8.0019531 10.796875 L 8.0019531 11.199219 L 8.0019531 13.783203 L 8.0019531 14.185547 L 8.0019531 16.769531 L 8.0019531 17.171875 L 8.0019531 19.755859 A 1.1342983 1.1342983 0 0 0 8.84375 20.851562 C 9.872234 21.126858 10.925506 21.282649 11.994141 21.289062 C 11.650419 20.938734 11.378046 20.528585 11.150391 20.09375 C 10.476011 20.034519 9.8038781 19.934438 9.1367188 19.755859 L 9.1367188 17.171875 L 9.1367188 16.769531 L 9.1367188 14.185547 L 9.1367188 13.783203 L 9.1367188 11.199219 L 9.1367188 10.796875 L 9.1367188 8.2109375 L 9.1367188 7.8105469 L 9.1367188 5.2246094 C 11.046207 5.6568206 12.953794 5.6839431 14.863281 5.2246094 L 14.863281 7.8105469 L 14.863281 8.2109375 L 14.863281 10.796875 L 14.863281 11.199219 L 14.863281 12.767578 C 15.104485 12.731278 15.347687 12.707098 15.591797 12.707031 C 15.72816 12.707004 15.862256 12.736652 15.998047 12.748047 L 15.998047 11.199219 L 15.998047 10.796875 L 15.998047 8.2109375 L 15.998047 7.8105469 L 15.998047 5.2246094 A 1.1342983 1.1342983 0 0 0 14.597656 4.1210938 C 12.865044 4.5378796 11.147539 4.517701 9.3867188 4.1191406 A 1.1342983 1.1342983 0 0 0 9.1621094 4.0898438 z "
+     id="path9846" />
+  <g
+     id="g10755"
+     transform="matrix(0.84418205,0,0,0.84418205,1.5728817,2.2819545)">
+    <path
+       style="opacity:1;fill:#990c0c;fill-opacity:1;stroke:none;stroke-width:0.9436723"
+       d="M 15.591797 13.609375 A 4.1456587 4.1456587 0 0 0 11.447266 17.755859 A 4.1456587 4.1456587 0 0 0 15.591797 21.900391 A 4.1456587 4.1456587 0 0 0 19.738281 17.755859 A 4.1456587 4.1456587 0 0 0 15.591797 13.609375 z M 14.199219 15.455078 L 15.591797 16.847656 L 16.986328 15.455078 L 17.892578 16.361328 L 16.5 17.755859 L 17.892578 19.148438 L 16.986328 20.054688 L 15.591797 18.662109 L 14.199219 20.054688 L 13.292969 19.148438 L 14.685547 17.755859 L 13.292969 16.361328 L 14.199219 15.455078 z "
+       transform="matrix(1.1845786,0,0,1.1845786,-1.863202,-2.7031545)"
+       id="path4696" />
+  </g>
+</svg>

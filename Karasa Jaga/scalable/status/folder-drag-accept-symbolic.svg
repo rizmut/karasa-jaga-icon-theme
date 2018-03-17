@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="folder-drag-accept-symbolic.svg">
+  <defs
+     id="defs8853">
+    <linearGradient
+       id="linearGradient4565">
+      <stop
+         id="stop4567"
+         offset="0"
+         style="stop-color:#161616;stop-opacity:1;" />
+      <stop
+         id="stop4569"
+         offset="1"
+         style="stop-color:#3a3a3a;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4565"
+       id="linearGradient4548"
+       gradientUnits="userSpaceOnUse"
+       x1="136.23065"
+       y1="40.918156"
+       x2="54.675591"
+       y2="-40.636906" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview8851"
+     showgrid="false"
+     inkscape:zoom="20.85965"
+     inkscape:cx="10.302755"
+     inkscape:cy="5.5177797"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     id="path4924-5"
+     d="m 1.7714843,1.474616 c -0.2281974,0 -0.3164586,0.2107768 -0.4121094,0.4277344 l -0.2402344,0.5429688 0.099609,4.703125 c 0.00895,-4.971e-4 0.019339,0.00306 0.027344,-0.00195 H 4.4414061 L 4.9687499,6.7304754 h -3 v -3.21875 H 14.03125 v 2.4882812 h 0.808593 l 0.03906,-2.9355468 C 14.888806,2.8275606 14.696952,2.6367254 14.46875,2.6367254 H 5.9804687 L 5.2382811,1.474616 Z"
+     clip-path="none"
+     mask="none"
+     style="display:inline;fill:#cccccc;fill-opacity:1;stroke:none"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#cccccc;fill-opacity:1;stroke:none"
+     d="M 5.6484375 5.9726562 L 4.1992188 7.1464844 L 1.0039062 7.1464844 C 0.80289439 7.2722715 0.55381942 7.3381534 0.57617188 7.5742188 L 1.09375 13.046875 C 1.1161023 13.282938 1.2843644 13.474609 1.5214844 13.474609 L 14.478516 13.474609 C 14.715636 13.474609 14.88782 13.283277 14.90625 13.046875 L 15.423828 6.4003906 C 15.44226 6.1639875 15.233214 5.9726562 14.996094 5.9726562 L 5.6484375 5.9726562 z M 3.2597656 7.7734375 L 3.7558594 7.7734375 C 3.7808664 7.7773375 3.8542371 7.7893594 3.9707031 7.8183594 C 4.1051641 7.8518594 4.2562325 7.9293969 4.2265625 7.9042969 L 6.5546875 9.9882812 L 4.2265625 12.072266 C 4.1126595 12.167666 4.016855 12.203125 3.796875 12.203125 L 3.2597656 12.203125 L 3.2597656 11.734375 C 3.2597656 11.646005 3.3370224 11.483419 3.4433594 11.386719 L 4.7167969 10.275391 A 0.46214353 0.40348392 0 0 0 4.7167969 9.7050781 L 3.4433594 8.5917969 C 3.4651194 8.6116269 3.4351237 8.5760544 3.4023438 8.4589844 C 3.3857277 8.3996544 3.3003056 8.2942781 3.2597656 8.2050781 L 3.2597656 7.7734375 z M 12.193359 7.7734375 A 0.46214353 0.40348392 0 0 0 12.203125 7.7734375 L 12.740234 7.7734375 L 12.740234 8.2421875 C 12.740234 8.3305675 12.662978 8.4931437 12.556641 8.5898438 L 11.28125 9.7011719 A 0.46214353 0.40348392 0 0 0 11.28125 10.271484 L 12.554688 11.384766 C 12.661021 11.481486 12.738281 11.644022 12.738281 11.732422 L 12.738281 12.203125 L 12.201172 12.203125 C 11.981319 12.203125 11.887251 12.166412 11.773438 12.070312 L 9.4414062 9.9863281 L 11.771484 7.9042969 C 11.884346 7.8097069 11.983945 7.7754375 12.193359 7.7734375 z "
+     id="path4932" />
+</svg>

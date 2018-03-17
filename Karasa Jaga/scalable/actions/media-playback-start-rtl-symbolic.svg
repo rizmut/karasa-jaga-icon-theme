@@ -13,8 +13,8 @@
    height="16"
    width="16"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="media-playback-start-symbolic.svg">
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="media-playback-start-rtl-symbolic.svg">
   <defs
      id="defs7527" />
   <sodipodi:namedview
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="716"
      id="namedview7525"
      showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="-27.862079"
-     inkscape:cy="5.1995204"
+     inkscape:zoom="10.429825"
+     inkscape:cx="-4.6657812"
+     inkscape:cy="7.189733"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384" />
   <metadata
@@ -51,27 +51,31 @@
   </metadata>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
-  <path
-     style="fill:#bebebe;fill-opacity:1;stroke:none"
-     d="m 8,0.09375 c 4.362113,0 7.90625,3.5441366 7.90625,7.90625 0,4.362113 -3.544137,7.90625 -7.90625,7.90625 C 3.637887,15.90625 0.09375,12.362113 0.09375,8 0.09375,3.6378866 3.637887,0.09375 8,0.09375 z M 8,1.0625 C 4.162089,1.0625 1.0625,4.1620891 1.0625,8 c 0,3.837911 3.099589,6.9375 6.9375,6.9375 3.837911,0 6.9375,-3.099589 6.9375,-6.9375 C 14.9375,4.1620891 11.837911,1.0625 8,1.0625 z"
-     id="path7529"
-     inkscape:connector-curvature="0" />
-  <path
-     sodipodi:type="star"
-     style="fill:#bebebe;fill-opacity:1;stroke:none"
-     id="path7534"
-     sodipodi:sides="3"
-     sodipodi:cx="4.0677967"
-     sodipodi:cy="4.3389831"
-     sodipodi:r1="8.587719"
-     sodipodi:r2="4.2938595"
-     sodipodi:arg1="0.10281083"
-     sodipodi:arg2="1.1500084"
-     inkscape:flatsided="true"
-     inkscape:rounded="0"
-     inkscape:randomized="0"
-     d="M 12.610169,5.220339 -0.96666619,11.296217 0.55988706,-3.4996065 z"
-     inkscape:transform-center-x="1.5880268"
-     inkscape:transform-center-y="-0.014701105"
-     transform="matrix(-0.74286599,-0.06404311,-0.07273583,0.65408549,11.548749,5.4415643)" />
+  <g
+     id="g819"
+     transform="matrix(-1,0,0,1,16,0)">
+    <path
+       id="path7529"
+       d="M 8,0.09375 C 3.6378866,0.09375 0.09375,3.6378866 0.09375,8 c 0,4.362113 3.5441366,7.90625 7.90625,7.90625 4.362113,0 7.90625,-3.544137 7.90625,-7.90625 C 15.90625,3.6378866 12.362113,0.09375 8,0.09375 Z m 0,1.6269531 c 3.464383,0 6.279297,2.8149133 6.279297,6.2792969 0,3.464383 -2.814914,6.279297 -6.279297,6.279297 C 4.5356164,14.279297 1.7207031,11.464383 1.7207031,8 1.7207031,4.5356164 4.5356164,1.7207031 8,1.7207031 Z"
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="matrix(0.55486022,-0.06404311,0.05432772,0.65408549,5.5621997,5.4371495)"
+       inkscape:transform-center-y="-0.014701105"
+       inkscape:transform-center-x="-1.1861261"
+       d="M 12.610169,5.220339 -0.96666619,11.296217 0.55988706,-3.4996065 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.1500084"
+       sodipodi:arg1="0.10281083"
+       sodipodi:r2="4.2938595"
+       sodipodi:r1="8.587719"
+       sodipodi:cy="4.3389831"
+       sodipodi:cx="4.0677967"
+       sodipodi:sides="3"
+       id="path7534"
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       sodipodi:type="star" />
+  </g>
 </svg>

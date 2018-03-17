@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="image-x-generic-symbolic.svg">
+  <defs
+     id="defs10">
+    <linearGradient
+       id="linearGradient4565">
+      <stop
+         style="stop-color:#161616;stop-opacity:1;"
+         offset="0"
+         id="stop4567" />
+      <stop
+         style="stop-color:#3a3a3a;stop-opacity:1;"
+         offset="1"
+         id="stop4569" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3569">
+      <stop
+         style="stop-color:#161616;stop-opacity:1;"
+         offset="0"
+         id="stop3571" />
+      <stop
+         style="stop-color:#3a3a3a;stop-opacity:1;"
+         offset="1"
+         id="stop3573" />
+    </linearGradient>
+    <linearGradient
+       y2="-40.636906"
+       x2="54.675591"
+       y1="40.918156"
+       x1="136.23065"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4548"
+       xlink:href="#linearGradient3569"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1317"
+     inkscape:window-height="716"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="2.7161406"
+     inkscape:cy="6.5254463"
+     inkscape:window-x="49"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="g835"
+     transform="matrix(0,1,-0.94507616,0,15.560609,-2.8e-7)">
+    <path
+       id="rect7217"
+       d="m 2.21875,0.59375 v 14.8125 H 6.984375 13.78125 V 3.8984375 3.8125 L 10.375,0.59375 Z M 9.9375,1.25 13.03125,3.9375 13.175781,3.8984375 13.1875,14.75 8,14.773438 H 7.9355469 L 2.8125,14.75 2.84375,1.28125 Z"
+       style="fill:#bebebe;fill-opacity:0.9020427;stroke:none"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path7212"
+       d="m 10.399923,1.0711876 0.121037,2.8764119 2.795,0.039625 V 3.5485288 L 10.761202,1.071188 Z"
+       style="fill:#bebebe;fill-opacity:1;stroke:none" />
+  </g>
+  <path
+     style="fill:#bebebe;fill-opacity:1;stroke-width:0.93881297"
+     d="m 6.1552474,4.7626571 c 0.1389632,-0.00259 0.2756638,0.049901 0.3549416,0.1465165 L 8.241561,7.018187 A 0.11462998,0.11462998 0 0 0 8.4025229,7.034696 L 9.5168743,6.130833 C 9.6924483,5.9881858 10.008526,6.0130732 10.148341,6.172105 l 2.60428,2.9612866 c 0.09326,0.106079 0.08911,0.20609 0.02889,0.301287 -0.06021,0.0952 -0.188517,0.175408 -0.36526,0.175408 H 3.0412547 c -0.168633,0 -0.296067,-0.07467 -0.359069,-0.165089 -0.063,-0.09042 -0.0712,-0.186168 0.0062,-0.29097 L 5.8126878,4.9215554 c 0.072761,-0.098527 0.2035964,-0.156312 0.3425596,-0.1588983 z m 0.033018,0.9843438 a 0.11462998,0.11462998 0 0 0 -0.090798,0.047463 L 3.8687647,8.8114686 a 0.11462998,0.11462998 0 0 0 0.09286,0.183661 h 7.4413933 a 0.11462998,0.11462998 0 0 0 0.08667,-0.191916 L 9.8326076,6.91707 A 0.11462998,0.11462998 0 0 0 9.673709,6.9046882 L 8.5449122,7.8209328 C 8.3654557,7.9667346 8.0404266,7.938278 7.9051919,7.7734697 L 6.2790643,5.7903368 a 0.11462998,0.11462998 0 0 0 -0.090799,-0.043336 z"
+     id="Combined-Shape"
+     inkscape:connector-curvature="0" />
+</svg>

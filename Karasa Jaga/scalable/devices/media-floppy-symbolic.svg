@@ -15,8 +15,8 @@
    width="16"
    height="16"
    id="svg4112"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="mail-send-symbolic.svg">
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="media-floppy-symbolic.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -27,16 +27,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="696"
+     inkscape:window-height="697"
      id="namedview7"
      showgrid="false"
-     inkscape:zoom="8"
-     inkscape:cx="34.898364"
-     inkscape:cy="-1.2690752"
+     inkscape:zoom="11.313708"
+     inkscape:cx="3.1801216"
+     inkscape:cy="0.55827439"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4112" />
+     inkscape:current-layer="svg4112"
+     showguides="false" />
   <defs
      id="defs4114">
     <linearGradient
@@ -298,8 +299,11 @@
   </metadata>
   <path
      style="fill:#bebebe;fill-opacity:1;stroke:none;filter:url(#filter7554)"
-     d="M 2 1 C 1.446 1 1 1.446 1 2 L 1 14 C 1 14.554 1.446 15 2 15 L 4.0625 15 L 12 15 L 14 15 C 14.1385 15 14.255281 14.956719 14.375 14.90625 C 14.734156 14.754844 15 14.4155 15 14 L 15 3.28125 L 15 3 L 13 1 L 12 1 L 4.0625 1 L 4 1 L 2 1 z M 4.0625 1.96875 L 12 1.96875 L 12 2 L 12 7 L 4.0625 7 L 4.0625 1.96875 z M 6 2 L 6 6 L 8 6 L 8 2 L 6 2 z M 4.0625 14 L 12 14 L 12 14.03125 L 4.0625 14.03125 L 4.0625 14 z "
-     id="path5322" />
+     d="M 2,1 C 1.446,1 1,1.446 1,2 v 12 c 0,0.554 0.446,1 1,1 H 4.0625 12 14 c 0.1385,0 0.255281,-0.04328 0.375,-0.09375 C 14.734156,14.754844 15,14.4155 15,14 V 3.8038356 L 12,1 H 4.0625 4 Z M 4.0625,1.96875 H 12 V 2 7 H 4.0625 Z M 6,2 V 6 H 8 V 2 Z M 1.8125,8.1328125 h 12.375 V 14.232422 H 1.8125 Z"
+     id="path5322"
+     inkscape:connector-curvature="0"
+     transform="matrix(1.0372024,0,0,1.0372024,-0.29761905,-0.29761905)"
+     sodipodi:nodetypes="ssssccscsccccscccccccccccccccc" />
   <g
      id="layer9-3"
      inkscape:label="status"
@@ -340,4 +344,18 @@
      inkscape:label="actions"
      style="fill:#bebebe;fill-opacity:1;display:inline"
      transform="matrix(-1,0,0,-1,437.0002,-87.00002)" />
+  <rect
+     id="rect2"
+     height="1"
+     width="8"
+     style="fill:#bebebe;fill-opacity:1"
+     y="9.625"
+     x="4" />
+  <rect
+     id="rect4"
+     height="1"
+     width="8"
+     style="fill:#bebebe;fill-opacity:1"
+     y="11.625"
+     x="4" />
 </svg>

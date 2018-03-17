@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   style="enable-background:new"
+   height="16.02"
+   width="16"
+   version="1.1"
+   sodipodi:docname="bluetooth-disabled-symbolic.svg"
+   inkscape:version="0.92.2 (unknown)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="10.416804"
+     inkscape:cx="-22.324442"
+     inkscape:cy="7.1320827"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <filter
+       id="filter7554"
+       color-interpolation-filters="sRGB">
+      <feBlend
+         id="feBlend7556"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     d="M 8.5,0.02 C 5.453,0.02 3,2.696 3,6.02 v 4 c 0,3.324 2.453,6 5.5,6 3.047,0 5.5,-2.676 5.5,-6 v -4 c 0,-3.324 -2.453,-6 -5.5,-6 z m -0.5,2 h 0.5 c 0.20775,0 0.39305,0.13292 0.46875,0.3125 l 2.875,2.8438 0.40625,0.375 -0.4375,0.34375 -2.5625,2.125 2.5625,2.125 0.4375,0.34375 -0.40625,0.375 -2.875,2.8438 c -0.0252,0.0599 -0.0798,0.11106 -0.125,0.15625 C 8.75335,13.95425 8.6385,14.0201 8.5,14.0201 H 8 v -0.5 -4.4375 l -2.1562,1.7812 c -0.0905,0.0905 -0.20568,0.15625 -0.34375,0.15625 h -0.5 v -0.5 c 0,-0.15322 0.079,-0.28328 0.1875,-0.375 l 2.5625,-2.125 -2.4375,-2.0312 c -0.0467,-0.0197 -0.0868,-0.0615 -0.125,-0.0937 -0.10854,-0.0917 -0.1875,-0.22178 -0.1875,-0.375 v -0.5 h 0.5 c 0.12292,0 0.22543,0.0514 0.3125,0.125 0.0107,0.009 0.0213,0.0213 0.0312,0.0312 l 2.1562,1.7812 v -4.4375 -0.5 z m 1,1.6875 v 3.25 l 1.7812,-1.4688 z m 0,5.375 v 3.25 l 1.7812,-1.7812 -1.78,-1.47 z"
+     style="fill:#bebebe;fill-opacity:1;opacity:0.35"
+     id="rect5886-2" />
+</svg>
