@@ -5,3 +5,13 @@ Karasa Jaga icon theme is a modern freedesktop icon theme that aims to keep up t
   <img src="https://github.com/rizmut/karasa-jaga-icon-theme/raw/master/preview.png" alt="preview"/>
 </p>
 
+### Karasa Jaga Installer
+## For *NIX Family
+
+Use the script to install the latest version directly from this repo (independently on your distro):
+```
+curl -s https://raw.githubusercontent.com/rizmut/karasa-jaga-icon-theme/master/install-karasa-jaga.sh | sh
+```
+### Remove
+```
+curl -s https://raw.githubusercontent.com/rizmut/karasa-jaga-icon-theme/master/remove-karasa-jaga.sh | sh
