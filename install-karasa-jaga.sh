@@ -20,7 +20,7 @@ curl -L "https://github.com/rizmut/$gh_repo/archive/master.tar.gz" -o "/tmp/$gh_
 echo "=> Unpacking archive ..."
 tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
 echo "=> Deleting old $gh_desc ..."
-sudo rm -f "/usr/share/icons/Karasa-Jaga"
+sudo rm -Rf "/usr/share/icons/Karasa-Jaga"
 echo "=> Installing ..."
 sudo mkdir -p "/usr/share/icons/Karasa-Jaga"
 cd "$temp_dir/$gh_repo-master/build/Karasa-Jaga" 
@@ -29,7 +29,7 @@ cd "../../"
 sudo tar -xvzf \
   "Karasa-Jaga.tar.gz" -C \
   "/usr/share/icons/Karasa-Jaga"
-rm -f "Karasa-Jaga.tar.gz"
 echo "=> Clearing cache ..."
 rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir"
+rm -f "Karasa-Jaga.tar.gz"
 echo "=> Done!"
