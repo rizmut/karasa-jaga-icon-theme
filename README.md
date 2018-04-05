@@ -10,7 +10,16 @@ Karasa Jaga icon theme is a modern freedesktop icon theme that aims to keep up t
 Use the script to install the latest version directly from this repo (independently on your distro):
 ```
 curl -s https://raw.githubusercontent.com/rizmut/karasa-jaga-icon-theme/master/install-karasa-jaga.sh | sh
+
 ```
+For GNOME based desktop, run following command to activate the icon theme
+
+```
+gsettings set org.gnome.desktop.interface icon-theme 'Karasa-Jaga'
+```
+
+For any other desktop environment, use respective tools/software based on desktop environment type
+  
 ### Remove
 ```
 curl -s https://raw.githubusercontent.com/rizmut/karasa-jaga-icon-theme/master/remove-karasa-jaga.sh | sh
