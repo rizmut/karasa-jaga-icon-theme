@@ -6,7 +6,6 @@ Karasa Jaga icon theme is a modern freedesktop icon theme that aims to keep up t
 </p>
 
 ### Karasa Jaga Installer
-## For *NIX Family
 
 Use the script to install the latest version directly from this repo (independently on your distro):
 ```
