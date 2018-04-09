@@ -3,7 +3,7 @@
 set -e
 
 gh_repo="karasa-jaga-icon-theme"
-gh_desc="Karasa Jaga icon themes"
+gh_desc="Karasa Jaga icon theme"
 
 cat <<- EOF
 
