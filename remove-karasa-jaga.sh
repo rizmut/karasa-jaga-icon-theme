@@ -15,5 +15,4 @@ EOF
 
 echo "=> Removing $gh_desc ..."
 sudo rm -Rf "/usr/share/icons/Karasa-Jaga"
-done
 echo "=> Done!"
