@@ -26,4 +26,8 @@ sudo tar -xvzf \
   "/usr/share/icons/Karasa-Jaga"
 rm -f "Karasa-Jaga.tar.gz"
 #cd "$(dirname ${BASH_SOURCE[0]})"
+echo "=> Pushing to git ..."
+git add .
+git commit -m "New build"
+git push origin master
 echo "=> Done!"
