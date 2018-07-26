@@ -540,6 +540,7 @@ Type=Scalable
 
 [scalable/status]
 Size=16
+Context=Status
 MinSize=8
 MaxSize=512
 Type=Scalable
