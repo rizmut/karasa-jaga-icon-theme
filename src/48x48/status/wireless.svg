@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
    sodipodi:docname="wireless.svg"
-   inkscape:export-filename="/home/rizmut/wireless.png"
+   inkscape:export-filename="/home/rizmut/Documents/Rizmut/Github/karasa-jaga-icon-theme/build/Karasa-Jaga/48x48/status/wireless.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
@@ -29,12 +29,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="696"
+     inkscape:window-height="664"
      id="namedview17"
      showgrid="false"
-     inkscape:zoom="4.7446299"
-     inkscape:cx="37.141417"
-     inkscape:cy="24.649588"
+     inkscape:zoom="3.35496"
+     inkscape:cx="12.455895"
+     inkscape:cy="4.5137548"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -127,25 +127,20 @@
          offset="100%"
          stop-color="#218AFF" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient-1"
+       id="linearGradient856"
+       x1="11.564139"
+       y1="11.56346"
+       x2="44.23415"
+       y2="45.285797"
+       gradientUnits="userSpaceOnUse" />
   </defs>
-  <g
-     id="Page-1"
-     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="matrix(0.81133103,-0.81133103,0.81133103,0.81133103,-11.840212,27.103677)">
-    <g
-       id="wireless-background">
-      <g
-         transform="translate(0,4)"
-         id="Group">
-        <path
-           id="Combined-Shape"
-           d="M 44.95921,8.7068276 C 39.672436,2.7688194 32.371806,1 23.976564,1 15.614569,1 6.8468718,4.3630386 1.5631212,10.259988 c -0.3354721,0.374405 -2.7354951,3.942069 1.2244104,7.920809 3.7230693,4.291385 10.2661924,9.673232 14.6548984,14.439435 1.385073,1.50421 1.180003,4.744005 2.285395,5.908084 4.492917,5.137944 8.596574,-0.02995 8.772138,-0.714384 0.300682,-1.172202 0.815189,-4.307294 1.814491,-5.390332 4.532493,-4.912289 10.854183,-10.021157 14.95871,-14.741964 3.852338,-3.869244 1.708388,-6.781459 1.374596,-7.156374 z"
-           inkscape:connector-curvature="0"
-           style="fill:url(#linearGradient-1)"
-           sodipodi:nodetypes="csscscssccc" />
-      </g>
-    </g>
-  </g>
+  <path
+     style="fill:url(#linearGradient856);fill-opacity:1"
+     d="M 33.027344 1.65625 C 28.391457 1.6542746 26.297122 1.6547298 34.958984 1.6660156 C 18.463054 1.8335916 1.6946713 18.710349 1.6582031 36.951172 L 1.6582031 41.521484 L 33.257812 41.521484 A 6.6756225 6.6756225 0 0 0 39.666016 46.341797 A 6.6756225 6.6756225 0 0 0 46.341797 39.666016 A 6.6756225 6.6756225 0 0 0 41.521484 33.259766 L 41.521484 1.6582031 C 38.628911 1.6578893 35.984872 1.6575102 33.027344 1.65625 z "
+     id="rect840" />
   <g
      id="g866"
      transform="matrix(3,0,0,3,-6.45e-6,-95.999954)">
