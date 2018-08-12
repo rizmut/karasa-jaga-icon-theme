@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="48"
+   width="48"
+   version="1.1"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   sodipodi:docname="wireless-background.svg"
+   inkscape:export-filename="/home/rizmut/Documents/Rizmut/Github/karasa-jaga-icon-theme/build/Karasa-Jaga/48x48/status/wireless-background.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="664"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="4.7446299"
+     inkscape:cx="73.230614"
+     inkscape:cy="7.2238794"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384"
+     inkscape:snap-page="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="47.422034,25.080987"
+       orientation="0,1"
+       id="guide827"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <clipPath
+       id="clipPath6279-6-1-4-5"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         id="rect6281-3-0-3-5"
+         style="color:#bebebe;fill:#bebebe"
+         height="6.375"
+         width="3.825"
+         y="220.75"
+         x="26.85" />
+    </clipPath>
+    <clipPath
+       id="clipPath6265-33-6-5-1-3"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         id="rect6267-6-9-1-4-8"
+         style="color:#bebebe;fill:#bebebe"
+         height="5.2158999"
+         width="2.8977001"
+         y="221.33"
+         x="26.966" />
+    </clipPath>
+    <clipPath
+       id="clipPath6259-6-8-2-1-6-6"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         id="rect6261-4-9-2-0-9-0"
+         style="color:#bebebe;fill:#bebebe"
+         height="4.8734999"
+         width="1.8763"
+         y="221.5"
+         x="26.999001" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3864"
+       id="linearGradient3880"
+       gradientUnits="userSpaceOnUse"
+       x1="125.53125"
+       y1="11.579919"
+       x2="125.53125"
+       y2="64" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3864">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3866" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3868" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient-1"
+       y2="42.246376"
+       x2="22.098593"
+       y1="2.5642571"
+       x1="22.098593"
+       gradientTransform="scale(1.086042,0.92077472)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop833"
+         offset="0%"
+         stop-color="#15C4FF" />
+      <stop
+         id="stop835"
+         offset="100%"
+         stop-color="#218AFF" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient-1"
+       id="linearGradient856"
+       x1="11.564139"
+       y1="11.56346"
+       x2="44.23415"
+       y2="45.285797"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0707478,0,0,1.0707478,-1.620378,-1.620378)" />
+  </defs>
+  <path
+     style="fill:url(#linearGradient856);fill-opacity:1;stroke-width:1.07074785"
+     d="m 33.743579,0.15304815 c -4.963866,-0.00212 -7.206371,-0.001628 2.068299,0.0104612 C 18.148897,0.34293628 0.19418768,18.413687 0.15513943,37.945009 V 44.83866 H 29.928572 l 4.06178,-2 c 0.884023,3.055508 3.680749,5.159233 6.86157,5.16134 3.947813,9.4e-5 7.148172,-3.200265 7.148078,-7.148078 -0.003,-3.180045 -2.106576,-5.975671 -5.16134,-6.859478 l 2,-3.275141 V 0.15513943 c -3.097216,-3.36e-4 -7.928315,-7.4192e-4 -11.095081,-0.002088 z"
+     id="rect840"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccc" />
+</svg>

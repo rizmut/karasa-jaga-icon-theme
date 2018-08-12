@@ -19,7 +19,7 @@
    style="overflow:visible"
    sodipodi:version="0.32"
    inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
-   sodipodi:docname="audio-volume-low-symbolic.svg"
+   sodipodi:docname="audio-volume-low-symbolic-osd.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    inkscape:export-filename="/usr/share/icons/Karasa Jaga/24x24/status/audio-volume-high-panel.png"
    inkscape:export-xdpi="480"
@@ -39,7 +39,7 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="20.166667"
-     inkscape:cx="0.35125705"
+     inkscape:cx="-9.9627924"
      inkscape:cy="9.0848125"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -402,9 +402,11 @@
        style="stop-color:#555555;stop-opacity:1"
        offset="1" /></linearGradient><path
      style="fill:#bebebe;fill-opacity:1;stroke-width:0.77065462"
-     d="M 7.140625 0.984375 L 3.296875 5.6035156 L 3 6.5039062 L 3 6.09375 L 0.60546875 6.09375 L 0.60546875 9.90625 L 3 9.90625 L 3 9.4960938 L 3.296875 10.396484 L 7.140625 15.015625 L 7.140625 8.0175781 L 7.140625 7.9824219 L 7.140625 0.984375 z M 6.296875 3.3164062 L 6.296875 7.9824219 L 6.296875 8.0175781 L 6.296875 12.683594 L 4.046875 9.9785156 L 3.8007812 9.2304688 A 0.8430595 0.8430595 0 0 0 2.2773438 9.0605469 L 1.4492188 9.0605469 L 1.4492188 6.9375 L 2.2773438 6.9375 A 0.8430595 0.8430595 0 0 0 3.8007812 6.7675781 L 4.046875 6.0195312 L 6.296875 3.3164062 z "
+     d="M 7.140625,0.984375 3.296875,5.6035156 3,6.5039062 V 6.09375 H 0.60546875 v 3.8125 H 3 V 9.4960938 l 0.296875,0.9003902 3.84375,4.619141 V 8.0175781 7.9824219 Z M 3.8007812,9.2304688 c -2.5338541,4.5130212 -1.2669271,2.2565102 0,0 z"
      transform="translate(0,-0.7272725)"
-     id="rect12" /><path
+     id="rect12"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccc" /><path
      inkscape:connector-curvature="0"
      d="m 15.393938,7.2727276 c 0,-2.5108828 -0.938028,-4.6577505 -2.293875,-5.6447554 l -0.899564,0.8096306 c 1.167494,0.8267607 1.979071,2.6883344 1.979071,4.8351248 0,2.1467904 -0.811499,4.0084434 -1.979071,4.8351254 l 0.899564,0.809631 c 1.355613,-0.986538 2.293875,-3.1332511 2.293875,-5.6443674 z"
      style="color:#bebebe;opacity:0.35;fill:#bebebe;fill-opacity:1;stroke-width:0.77864069"
