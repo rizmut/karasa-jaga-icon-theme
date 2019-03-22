@@ -10,96 +10,108 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   height="16"
-   width="16"
+   width="16px"
+   height="16px"
+   id="svg3925"
    version="1.1"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="document-page-setup-symbolic.svg">
   <defs
-     id="defs10">
+     id="defs3927">
     <linearGradient
-       id="linearGradient4565">
-      <stop
-         style="stop-color:#161616;stop-opacity:1;"
-         offset="0"
-         id="stop4567" />
-      <stop
-         style="stop-color:#3a3a3a;stop-opacity:1;"
-         offset="1"
-         id="stop4569" />
-    </linearGradient>
+       inkscape:collect="always"
+       xlink:href="#linearGradient3569"
+       id="linearGradient4548"
+       gradientUnits="userSpaceOnUse"
+       x1="136.23065"
+       y1="40.918156"
+       x2="54.675591"
+       y2="-40.636906" />
     <linearGradient
        id="linearGradient3569">
       <stop
-         style="stop-color:#161616;stop-opacity:1;"
+         id="stop3571"
          offset="0"
-         id="stop3571" />
+         style="stop-color:#161616;stop-opacity:1;" />
       <stop
-         style="stop-color:#3a3a3a;stop-opacity:1;"
+         id="stop3573"
          offset="1"
-         id="stop3573" />
+         style="stop-color:#3a3a3a;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       y2="-40.636906"
-       x2="54.675591"
-       y1="40.918156"
-       x1="136.23065"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient4548"
-       xlink:href="#linearGradient3569"
-       inkscape:collect="always" />
+       id="linearGradient4565">
+      <stop
+         id="stop4567"
+         offset="0"
+         style="stop-color:#161616;stop-opacity:1;" />
+      <stop
+         id="stop4569"
+         offset="1"
+         style="stop-color:#3a3a3a;stop-opacity:1;" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
+     id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
+     inkscape:zoom="22.197802"
+     inkscape:cx="1.5173381"
+     inkscape:cy="9.6171647"
+     inkscape:current-layer="g7227"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="657"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="20.85965"
-     inkscape:cx="11.286365"
-     inkscape:cy="8.2766752"
+     inkscape:window-height="714"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384"
-     inkscape:lockguides="false" />
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7250" />
+  </sodipodi:namedview>
   <metadata
-     id="metadata90">
+     id="metadata3930">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <title
-     id="title9167">Gnome Symbolic Icon Theme</title>
-  <path
-     style="fill:#bebebe;fill-opacity:0.9020427;stroke:none"
-     d="M 2.21875,0.59375 V 4.7460938 8.1425781 15.40625 h 4.765625 2.03125 4.765625 V 8.1425781 4.7460938 3.8125 L 10.375,0.59375 Z M 9.9375,1.25 13.31596,3.9872245 13.1875,14.75 8,14.773438 2.8125,14.75 2.84375,1.28125 Z"
-     id="rect7217"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccccccc" />
-  <path
-     style="fill:#bebebe;fill-opacity:1;stroke:none"
-     d="m 10.399923,1.0711876 0.121037,2.8764119 2.795,0.039625 0,-0.4386957 -2.554758,-2.4773408 z"
-     id="path7212"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccc" />
-  <path
-     inkscape:connector-curvature="0"
-     id="rect17490"
-     d="M 3.8125,4.4673044 V 13.779804 H 5.5 v -0.03125 h 5.1875 v -1.6875 H 5.5 V 4.4673044 Z"
-     style="fill:#bfbfbf;fill-opacity:0.90196079;stroke:none" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       id="g7227"
+       transform="matrix(0.82578026,0,0,0.82578026,18.580309,-2.825463)">
+      <path
+         id="rect7217"
+         d="m -19.472867,4.6325435 -0.07378,18.1646385 H -5.5466438 V 8.7659321 l -4.051223,-4.1333886 z m 0.605488,0.605488 h 8.476832 l 4.2384152,3.6329277 V 22.191694 H -18.867379 Z"
+         style="fill:#bebebe;fill-opacity:0.9020427;stroke:none"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7212"
+         d="M -9.90625,4.71875 -9.759677,8.2020155 -6.375,8.25 l 0,-0.53125 -3.09375,-3 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect17490"
+         d="m -17.656403,9.4764472 0,10.8987828 c 2.767552,-0.02909 5.667714,0 8.4768314,0 V 17.953279 H -15.234451 V 9.4764472 Z"
+         style="fill:#bfbfbf;fill-opacity:0.90196078;stroke:none;stroke-width:1.21097589"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+  </g>
 </svg>

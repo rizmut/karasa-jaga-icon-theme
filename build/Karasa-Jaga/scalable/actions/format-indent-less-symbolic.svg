@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3085"
    version="1.1"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.4 (unknown)"
    width="16"
    height="16"
    sodipodi:docname="format-indent-less-symbolic.svg">
@@ -48,51 +48,55 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="714"
      id="namedview3087"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="4.0435246"
-     inkscape:cy="7.5976929"
+     inkscape:cx="5.2264337"
+     inkscape:cy="6.7283996"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3085" />
+     inkscape:current-layer="svg3085">
+    <inkscape:grid
+       type="xygrid"
+       id="grid821" />
+  </sodipodi:namedview>
   <g
      id="g1699">
     <rect
-       y="13.690678"
-       x="0.98305082"
-       height="1.2542373"
-       width="14.033898"
+       y="14"
+       x="1"
+       height="1"
+       width="14"
        id="rect816"
        style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none" />
     <rect
-       y="1.6906781"
-       x="0.98305082"
-       height="1.2542373"
-       width="14.033898"
+       y="2"
+       x="1"
+       height="1"
+       width="14"
        id="rect812"
        style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none" />
     <rect
        style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.8093124"
        id="rect818"
-       width="9.1920147"
-       height="1.2542373"
-       x="0.98305082"
-       y="4.0906787" />
+       width="9"
+       height="1"
+       x="1"
+       y="4" />
     <rect
        style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.8093124"
        id="rect822"
-       width="9.1920147"
-       height="1.2542373"
-       x="0.98305082"
-       y="11.290678" />
+       width="9"
+       height="1"
+       x="1"
+       y="10" />
     <rect
-       y="8.8906784"
-       x="0.98305082"
-       height="1.2542373"
-       width="9.1920147"
+       y="8"
+       x="1"
+       height="1"
+       width="9"
        id="rect824"
        style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.8093124" />
     <path
@@ -103,9 +107,16 @@
     <rect
        style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.8093124"
        id="rect1652"
-       width="9.1920147"
-       height="1.2542373"
-       x="0.98305082"
-       y="6.4906783" />
+       width="9"
+       height="1"
+       x="1"
+       y="6" />
+    <rect
+       y="12"
+       x="1"
+       height="1"
+       width="9"
+       id="rect823"
+       style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.8093124" />
   </g>
 </svg>

@@ -13,7 +13,7 @@
    height="16px"
    id="svg13294"
    version="1.1"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="network-server-symbolic.svg">
   <defs
      id="defs13296" />
@@ -24,19 +24,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="-0.45638081"
-     inkscape:cy="9.0394424"
+     inkscape:zoom="64.000003"
+     inkscape:cx="2.2445963"
+     inkscape:cy="15.292981"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-height="714"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid818" />
+  </sodipodi:namedview>
   <metadata
      id="metadata13299">
     <rdf:RDF>
@@ -61,8 +65,10 @@
        sodipodi:nodetypes="cccccccccccccccccc" />
     <path
        style="fill:#bebebe;fill-opacity:1;stroke-width:0.69164991"
-       d="M 4.6464844 0.001953125 C 4.6096444 0.13011025 4.5839844 0.27027052 4.5839844 0.42773438 L 4.5839844 11.271484 C 4.5839844 11.765784 4.788501 12.164062 5.0449219 12.164062 L 10.955078 12.164062 C 11.211499 12.164062 11.416016 11.765784 11.416016 11.271484 L 11.416016 0.42773438 C 11.416016 0.27027053 11.390366 0.13011023 11.353516 0.001953125 L 4.6464844 0.001953125 z M 5.3789062 0.796875 L 10.621094 0.796875 L 10.621094 11.271484 C 10.621094 11.321685 10.610425 11.328619 10.603516 11.369141 L 5.3964844 11.369141 C 5.3895749 11.328619 5.3789062 11.321685 5.3789062 11.271484 L 5.3789062 0.796875 z "
-       id="rect3884" />
+       d="M 4,0 C 3.96316,0.12815712 4,0.26831739 4,0.42578125 V 11.269531 c 0,0.4943 0.2045166,0.892578 0.4609375,0.892578 H 10.539062 C 10.795483,12.162109 11,11.763831 11,11.269531 V 0.42578125 C 11,0.2683174 11.03685,0.1281571 11,0 H 10.599609 Z M 4.7949218,0.79492187 H 10.205078 V 11.269531 c 0,0.0502 -0.01067,0.05714 -0.01758,0.09766 H 4.8125 c -0.00691,-0.04052 -0.017578,-0.04746 -0.017578,-0.09766 z"
+       id="rect3884"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssscccccsccsc" />
     <rect
        style="fill:#bebebe;fill-opacity:1;stroke-width:0.95327336"
        id="rect1430"
