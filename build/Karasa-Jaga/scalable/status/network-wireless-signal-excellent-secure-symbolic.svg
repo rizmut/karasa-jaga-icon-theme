@@ -1,1 +1,86 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><g fill="#bebebe"><g transform="translate(.098963 .083894)"><path d="m13 6.0253906a7.5 7.5 0 0 0 -6.6582031 5.2480474c.3259826.239685.6582031.718783.6582031 1.226562v.5h.0253906a6.5 6.5 0 0 1 5.9746094-5.9785156z" transform="translate(-.098963 -.083894)"/><path d="m13 9.03125a4.5 4.5 0 0 0 -3.9667969 3.96875h1.0078129a3.5 3.5 0 0 1 2.958984-2.960938z" transform="translate(-.098963 -.083894)"/><circle cx="13.401037" cy="13.416106" r="1.5"/><g transform="translate(-.098963 -.083894)"><path d="m13 3.0253906a10.5 10.5 0 0 0 -8.6347656 5.3261719c.3049147.1604387.5814631.3640676.8144531.6152344a9.5 9.5 0 0 1 7.8203125-4.9492188z"/><path d="m13.140625.01757813a13.5 13.5 0 0 0 -12.359375 8.99804687c.3856603-.4329718.8897173-.7507157 1.4628906-.9042969a12.5 12.5 0 0 1 10.7558594-7.09375v-.5175781c0-.17871644.059145-.33753073.140625-.48242187z"/></g></g><path d="m13 9c-1.108 0-2 .91-2 2.031v.969h-.5s-.5 0-.5.5v3c0 .5.5.5.5.5h5s.5 0 .5-.5v-3c0-.5-.5-.5-.5-.5h-.5v-.969c0-1.12-.892-2.031-2-2.031zm0 1c.554 0 1 .442 1 1v1h-2v-1c0-.558.446-1 1-1z" transform="translate(-10)"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="network-wireless-signal-excellent-secure-symbolic.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-0.54237288"
+     inkscape:cy="7.4576271"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g14" />
+  <g
+     fill="#bebebe"
+     id="g18">
+    <g
+       transform="translate(.098963 .083894)"
+       id="g14">
+      <path
+         d="m13 6.0253906a7.5 7.5 0 0 0 -6.6582031 5.2480474c.3259826.239685.6582031.718783.6582031 1.226562v.5h.0253906a6.5 6.5 0 0 1 5.9746094-5.9785156z"
+         transform="translate(-.098963 -.083894)"
+         id="path2" />
+      <path
+         d="m13 9.03125a4.5 4.5 0 0 0 -3.9667969 3.96875h1.0078129a3.5 3.5 0 0 1 2.958984-2.960938z"
+         transform="translate(-.098963 -.083894)"
+         id="path4" />
+      <circle
+         cx="13.401037"
+         cy="13.416106"
+         r="1.5"
+         id="circle6"
+         style="fill:#bebebe;fill-opacity:1" />
+      <g
+         transform="translate(-.098963 -.083894)"
+         id="g12">
+        <path
+           d="m13 3.0253906a10.5 10.5 0 0 0 -8.6347656 5.3261719c.3049147.1604387.5814631.3640676.8144531.6152344a9.5 9.5 0 0 1 7.8203125-4.9492188z"
+           id="path8" />
+        <path
+           d="m13.140625.01757813a13.5 13.5 0 0 0 -12.359375 8.99804687c.3856603-.4329718.8897173-.7507157 1.4628906-.9042969a12.5 12.5 0 0 1 10.7558594-7.09375v-.5175781c0-.17871644.059145-.33753073.140625-.48242187z"
+           id="path10" />
+      </g>
+    </g>
+    <path
+       d="m13 9c-1.108 0-2 .91-2 2.031v.969h-.5s-.5 0-.5.5v3c0 .5.5.5.5.5h5s.5 0 .5-.5v-3c0-.5-.5-.5-.5-.5h-.5v-.969c0-1.12-.892-2.031-2-2.031zm0 1c.554 0 1 .442 1 1v1h-2v-1c0-.558.446-1 1-1z"
+       transform="translate(-10)"
+       id="path16" />
+  </g>
+</svg>
