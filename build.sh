@@ -29,8 +29,10 @@ do
 done
 
 cd "./../.."
-cp -Rf "src/Karasa-Jaga" \
-   "build/Karasa-Jaga"
+
+mkdir -p "build/Karasa-Jaga"
+cp -Rf "src/Karasa-Jaga/" \
+   "build/"
 cd "build/Karasa-Jaga"
 
 echo "=> Export SVG to PNG ..."
