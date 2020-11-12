@@ -180,11 +180,6 @@
          offset="1"
          id="stop3912" />
     </linearGradient>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4867"
-       id="pattern4875"
-       patternTransform="matrix(1.3122264,0.7385759,-0.7385759,1.3122264,-678.35689,1236.6429)" />
     <linearGradient
        id="linearGradient3797">
       <stop
@@ -1753,15 +1748,15 @@
      inkscape:pageopacity="0.34509804"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3199327"
-     inkscape:cx="51.016522"
-     inkscape:cy="83.741753"
+     inkscape:cx="80.025142"
+     inkscape:cy="103.99651"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="700"
+     inkscape:window-height="690"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -2092,12 +2087,6 @@
        style="fill:url(#radialGradient3916);fill-opacity:1;stroke:none"
        d="m 30.760695,852.45147 199.697995,0 c -8.28011,37.91071 -5.28011,24.91071 -7.28011,94.91071 l -186.000008,0 c 2,-40 -1,-68 -6.417877,-94.91071 z"
        id="rect3757-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:url(#pattern4875);fill-opacity:1;stroke:none"
-       d="m -1055.2637,973.59181 260.72337,146.74599 c -57.26738,70.892 -108.69279,162.2595 -139.58328,247.9974 l -260.72339,-146.746 c 56.6079,-71.2631 108.0333,-162.6306 139.5833,-247.99739 z"
-       id="rect3757-1-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
