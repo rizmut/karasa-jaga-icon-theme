@@ -8,14 +8,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="32"
-   viewBox="0 0 8.4666665 8.466667"
-   width="32"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   width="22"
    version="1.1"
    id="svg102"
    sodipodi:docname="draw-highlight.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/karasa-jaga-icon-theme/build/Karasa-Jaga/32x32/actions/draw-highlight.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/karasa-jaga-icon-theme/build/Karasa-Jaga/22x22/actions/draw-highlight.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -44,14 +44,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="711"
      id="namedview104"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="-0.33898305"
-     inkscape:cy="16"
+     showgrid="true"
+     inkscape:zoom="27.812866"
+     inkscape:cx="18.22708"
+     inkscape:cy="5.5302919"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g100" />
+     inkscape:current-layer="g100">
+    <inkscape:grid
+       type="xygrid"
+       id="grid915" />
+  </sodipodi:namedview>
   <linearGradient
      id="a">
     <stop
@@ -160,11 +164,11 @@
   </linearGradient>
   <filter
      id="f"
-     color-interpolation-filters="sRGB"
      height="1.208843"
      width="1.109883"
-     x="-.054941"
-     y="-.104422">
+     x="-0.054940999"
+     y="-0.104422"
+     style="color-interpolation-filters:sRGB">
     <feGaussianBlur
        stdDeviation=".48131835"
        id="feGaussianBlur39" />
@@ -212,11 +216,11 @@
   <linearGradient
      id="i"
      gradientUnits="userSpaceOnUse"
-     x1="244.610251"
+     x1="244.61024"
      x2="266.62939"
      xlink:href="#a"
-     y1="36.499934"
-     y2="55.274737" />
+     y1="36.499935"
+     y2="55.274738" />
   <linearGradient
      id="j"
      gradientUnits="userSpaceOnUse"
@@ -234,14 +238,16 @@
        id="stop59" />
   </linearGradient>
   <g
-     transform="matrix(.25 0 0 .25 0 -65.78333)"
+     transform="matrix(0.1875,0,0,0.1875,0,-49.866665)"
      id="g100">
     <path
-       d="m0 289.59165h33.866667v7.40834h-33.866667z"
-       fill="#f00"
-       id="path64" />
+       d="M -7e-8,288.49362 31.044445,288.53336 v 8.46663 L 0,296.96025 Z"
+       id="path64"
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000"
+       sodipodi:nodetypes="ccccc" />
     <g
-       transform="translate(-43.27589,-2.013615)"
+       transform="matrix(0.95538975,0,0,0.95538975,-40.813265,10.399604)"
        id="g98">
       <g
          id="g92"
